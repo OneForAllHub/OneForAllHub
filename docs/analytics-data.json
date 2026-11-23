@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-23T17:33:50Z",
+  "updated_at": "2026-11-23T18:44:09Z",
   "totals": {
     "repos_count": 10,
     "pages_count": 56,
-    "pages_daily": 27,
-    "pages_weekly": 27,
-    "pages_monthly": 27,
-    "pages_all_time": 32,
+    "pages_daily": 28,
+    "pages_weekly": 28,
+    "pages_monthly": 28,
+    "pages_all_time": 33,
     "repos_daily": 0,
     "repos_weekly": 187,
     "repos_monthly": 187,
@@ -75,7 +75,7 @@
     0,
     0,
     0,
-    27
+    28
   ],
   "repo_series_30": [
     0,
@@ -765,10 +765,10 @@
       "title": "Free Geo Public APIs — Daily Uptime & Latency Verified",
       "url": "https://oneforallhub.github.io/verified-public-apis/pages/geo-apis.html",
       "type": "SEO Page",
-      "daily": 0,
-      "weekly": 0,
-      "monthly": 0,
-      "total": 0
+      "daily": 1,
+      "weekly": 1,
+      "monthly": 1,
+      "total": 1
     },
     {
       "repo": "verified-public-apis",
