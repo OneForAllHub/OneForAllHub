@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-23T06:20:37Z",
+  "updated_at": "2026-11-23T06:20:23Z",
   "totals": {
     "pages_count": 56,
-    "pages_daily": 1,
-    "pages_weekly": 1,
-    "pages_monthly": 1,
+    "pages_daily": 2,
+    "pages_weekly": 2,
+    "pages_monthly": 2,
     "pages_all_time": 2,
     "repos_daily": 0,
     "repos_weekly": 3,
@@ -74,7 +74,7 @@
     0,
     0,
     0,
-    1
+    2
   ],
   "repo_series_30": [
     0,
@@ -599,7 +599,7 @@
       "daily": 0,
       "weekly": 0,
       "monthly": 0,
-      "total": 1
+      "total": 0
     },
     {
       "repo": "daily-cve-security-feed",
@@ -704,10 +704,10 @@
       "title": "Free Games Radar — Epic Games, Steam & GOG Temporarily Free Games",
       "url": "https://oneforallhub.github.io/free-games-radar/",
       "type": "Main Hub",
-      "daily": 0,
-      "weekly": 0,
-      "monthly": 0,
-      "total": 0
+      "daily": 1,
+      "weekly": 1,
+      "monthly": 1,
+      "total": 1
     },
     {
       "repo": "free-games-radar",
