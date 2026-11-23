@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-11-23T12:54:10Z",
+  "updated_at": "2026-11-23T17:30:21Z",
   "totals": {
+    "repos_count": 10,
     "pages_count": 56,
     "pages_daily": 17,
     "pages_weekly": 17,
     "pages_monthly": 17,
     "pages_all_time": 22,
     "repos_daily": 0,
-    "repos_weekly": 3,
-    "repos_monthly": 3,
-    "repos_uniques_monthly": 3,
-    "total_stars": 0
+    "repos_weekly": 187,
+    "repos_monthly": 187,
+    "repos_uniques_monthly": 93,
+    "total_stars": 3
   },
   "dates_30": [
     "2026-10-25",
@@ -102,11 +103,263 @@
     0,
     0,
     1,
-    0,
-    2,
-    0,
-    0,
+    82,
+    72,
+    14,
+    18,
     0
+  ],
+  "repositories": [
+    {
+      "repo": "HotaruNet",
+      "url": "https://github.com/OneForAllHub/HotaruNet",
+      "description": "Autonomous zero-config Android & Windows VPN (VLESS REALITY, Hysteria 2, Cloudflare WARP, XHTTP, Xray-core, Wintun TUN & No Proxy SOCKS5/HTTP) with 4-stage robot UI, real throughput probing & auto-failover. فیلترشکن هوشمند و رایگان اندروید و ویندوز",
+      "homepage": "https://t.me/OneForAllHub",
+      "daily_views": 0,
+      "weekly_views": 184,
+      "monthly_views": 184,
+      "weekly_uniques": 90,
+      "monthly_uniques": 90,
+      "clones_14d": 105,
+      "stars": 3,
+      "forks": 0,
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "repo": "OneForAllHub",
+      "url": "https://github.com/OneForAllHub/OneForAllHub",
+      "description": "OneForAll | AI • VPN • TECH — Official GitHub Profile for @OneForAllHub",
+      "homepage": "https://t.me/OneForAllHub",
+      "daily_views": 0,
+      "weekly_views": 3,
+      "monthly_views": 3,
+      "weekly_uniques": 3,
+      "monthly_uniques": 3,
+      "clones_14d": 52,
+      "stars": 0,
+      "forks": 0,
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "repo": "daily-cve-security-feed",
+      "url": "https://github.com/OneForAllHub/daily-cve-security-feed",
+      "description": "Automated daily cybersecurity feed tracking CISA Known Exploited Vulnerabilities (KEV) and critical GitHub Security Advisories with JSON & RSS feeds.",
+      "homepage": "https://oneforallhub.github.io/daily-cve-security-feed/",
+      "daily_views": 0,
+      "weekly_views": 0,
+      "monthly_views": 0,
+      "weekly_uniques": 0,
+      "monthly_uniques": 0,
+      "clones_14d": 0,
+      "stars": 0,
+      "forks": 0,
+      "referrers": []
+    },
+    {
+      "repo": "daily-remote-tech-jobs",
+      "url": "https://github.com/OneForAllHub/daily-remote-tech-jobs",
+      "description": "Daily auto-updated board of verified remote software engineering, AI, DevOps, and developer jobs with clean JSON/CSV feeds.",
+      "homepage": "https://oneforallhub.github.io/daily-remote-tech-jobs/",
+      "daily_views": 0,
+      "weekly_views": 0,
+      "monthly_views": 0,
+      "weekly_uniques": 0,
+      "monthly_uniques": 0,
+      "clones_14d": 0,
+      "stars": 0,
+      "forks": 0,
+      "referrers": []
+    },
+    {
+      "repo": "free-for-devs-live",
+      "url": "https://github.com/OneForAllHub/free-for-devs-live",
+      "description": "Auto-checked directory of free hosting, cloud credits, databases, auth, email, and developer infrastructure tiers with live status checks.",
+      "homepage": "https://oneforallhub.github.io/free-for-devs-live/",
+      "daily_views": 0,
+      "weekly_views": 0,
+      "monthly_views": 0,
+      "weekly_uniques": 0,
+      "monthly_uniques": 0,
+      "clones_14d": 0,
+      "stars": 0,
+      "forks": 0,
+      "referrers": []
+    },
+    {
+      "repo": "free-games-radar",
+      "url": "https://github.com/OneForAllHub/free-games-radar",
+      "description": "Free Games Radar - Automated tracker for temporarily free PC games on Epic Games, Steam, GOG & more with claim links, end dates, and Telegram alerts.",
+      "homepage": "https://oneforallhub.github.io/free-games-radar/",
+      "daily_views": 0,
+      "weekly_views": 0,
+      "monthly_views": 0,
+      "weekly_uniques": 0,
+      "monthly_uniques": 0,
+      "clones_14d": 0,
+      "stars": 0,
+      "forks": 0,
+      "referrers": []
+    },
+    {
+      "repo": "free-llm-apis-live",
+      "url": "https://github.com/OneForAllHub/free-llm-apis-live",
+      "description": "Live auto-updated directory of free LLM APIs & AI models with automated status checks, context windows, and JSON/CSV feeds.",
+      "homepage": "https://oneforallhub.github.io/free-llm-apis-live/",
+      "daily_views": 0,
+      "weekly_views": 0,
+      "monthly_views": 0,
+      "weekly_uniques": 0,
+      "monthly_uniques": 0,
+      "clones_14d": 0,
+      "stars": 0,
+      "forks": 0,
+      "referrers": []
+    },
+    {
+      "repo": "llm-pricing-tracker",
+      "url": "https://github.com/OneForAllHub/llm-pricing-tracker",
+      "description": "Daily auto-updated LLM API pricing, context window, and cost-per-1M-tokens comparison across OpenAI, Anthropic, Google, DeepSeek, Meta & more.",
+      "homepage": "https://oneforallhub.github.io/llm-pricing-tracker/",
+      "daily_views": 0,
+      "weekly_views": 0,
+      "monthly_views": 0,
+      "weekly_uniques": 0,
+      "monthly_uniques": 0,
+      "clones_14d": 0,
+      "stars": 0,
+      "forks": 0,
+      "referrers": []
+    },
+    {
+      "repo": "trending-ai-mcp-radar",
+      "url": "https://github.com/OneForAllHub/trending-ai-mcp-radar",
+      "description": "Daily auto-updated radar of fastest-growing AI Agents, MCP Servers, and LLM open-source repositories on GitHub with star velocity tracking.",
+      "homepage": "https://oneforallhub.github.io/trending-ai-mcp-radar/",
+      "daily_views": 0,
+      "weekly_views": 0,
+      "monthly_views": 0,
+      "weekly_uniques": 0,
+      "monthly_uniques": 0,
+      "clones_14d": 0,
+      "stars": 0,
+      "forks": 0,
+      "referrers": []
+    },
+    {
+      "repo": "verified-public-apis",
+      "url": "https://github.com/OneForAllHub/verified-public-apis",
+      "description": "Auto-verified directory of free public APIs (no-auth & API-key) with daily automated uptime monitoring, latency checks, and JSON feeds.",
+      "homepage": "https://oneforallhub.github.io/verified-public-apis/",
+      "daily_views": 0,
+      "weekly_views": 0,
+      "monthly_views": 0,
+      "weekly_uniques": 0,
+      "monthly_uniques": 0,
+      "clones_14d": 0,
+      "stars": 0,
+      "forks": 0,
+      "referrers": []
+    }
+  ],
+  "github_paths": [
+    {
+      "repo": "HotaruNet",
+      "path": "/OneForAllHub/HotaruNet",
+      "title": "Overview",
+      "count": 67,
+      "uniques": 42,
+      "url": "https://github.com/OneForAllHub/HotaruNet"
+    },
+    {
+      "repo": "HotaruNet",
+      "path": "/OneForAllHub/HotaruNet/releases/tag/v2.3.43",
+      "title": "/releases/tag/v2.3.43",
+      "count": 51,
+      "uniques": 39,
+      "url": "https://github.com/OneForAllHub/HotaruNet/releases/tag/v2.3.43"
+    },
+    {
+      "repo": "HotaruNet",
+      "path": "/OneForAllHub/HotaruNet/releases/tag/v2.3.42",
+      "title": "/releases/tag/v2.3.42",
+      "count": 19,
+      "uniques": 16,
+      "url": "https://github.com/OneForAllHub/HotaruNet/releases/tag/v2.3.42"
+    },
+    {
+      "repo": "HotaruNet",
+      "path": "/OneForAllHub/HotaruNet/releases",
+      "title": "/releases",
+      "count": 7,
+      "uniques": 5,
+      "url": "https://github.com/OneForAllHub/HotaruNet/releases"
+    },
+    {
+      "repo": "HotaruNet",
+      "path": "/OneForAllHub/HotaruNet/blob/main/README.fa.md",
+      "title": "/blob/main/README.fa.md",
+      "count": 7,
+      "uniques": 3,
+      "url": "https://github.com/OneForAllHub/HotaruNet/blob/main/README.fa.md"
+    },
+    {
+      "repo": "HotaruNet",
+      "path": "/OneForAllHub/HotaruNet/tree/main/V2rayNG",
+      "title": "/tree/main/V2rayNG",
+      "count": 6,
+      "uniques": 4,
+      "url": "https://github.com/OneForAllHub/HotaruNet/tree/main/V2rayNG"
+    },
+    {
+      "repo": "OneForAllHub",
+      "path": "/OneForAllHub/OneForAllHub",
+      "title": "Overview",
+      "count": 3,
+      "uniques": 3,
+      "url": "https://github.com/OneForAllHub/OneForAllHub"
+    },
+    {
+      "repo": "HotaruNet",
+      "path": "/OneForAllHub/HotaruNet/blob/main/ARCHITECTURE.fa.md",
+      "title": "/blob/main/ARCHITECTURE.fa.md",
+      "count": 3,
+      "uniques": 1,
+      "url": "https://github.com/OneForAllHub/HotaruNet/blob/main/ARCHITECTURE.fa.md"
+    },
+    {
+      "repo": "HotaruNet",
+      "path": "/OneForAllHub/HotaruNet/blob/main/PRIVACY.fa.md",
+      "title": "/blob/main/PRIVACY.fa.md",
+      "count": 2,
+      "uniques": 2,
+      "url": "https://github.com/OneForAllHub/HotaruNet/blob/main/PRIVACY.fa.md"
+    },
+    {
+      "repo": "HotaruNet",
+      "path": "/OneForAllHub/HotaruNet/tags",
+      "title": "/tags",
+      "count": 2,
+      "uniques": 2,
+      "url": "https://github.com/OneForAllHub/HotaruNet/tags"
+    },
+    {
+      "repo": "HotaruNet",
+      "path": "/OneForAllHub/HotaruNet/tree/main/V2rayNG/app",
+      "title": "/tree/main/V2rayNG/app",
+      "count": 2,
+      "uniques": 2,
+      "url": "https://github.com/OneForAllHub/HotaruNet/tree/main/V2rayNG/app"
+    }
   ],
   "pages": [
     {
@@ -780,130 +1033,6 @@
       "weekly": 0,
       "monthly": 0,
       "total": 3
-    }
-  ],
-  "repositories": [
-    {
-      "repo": "OneForAllHub",
-      "url": "https://github.com/OneForAllHub/OneForAllHub",
-      "daily_views": 0,
-      "weekly_views": 3,
-      "monthly_views": 3,
-      "weekly_uniques": 3,
-      "monthly_uniques": 3,
-      "clones_14d": 52,
-      "stars": 0,
-      "forks": 0,
-      "referrers": [
-        {
-          "referrer": "github.com",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "repo": "free-llm-apis-live",
-      "url": "https://github.com/OneForAllHub/free-llm-apis-live",
-      "daily_views": 0,
-      "weekly_views": 0,
-      "monthly_views": 0,
-      "weekly_uniques": 0,
-      "monthly_uniques": 0,
-      "clones_14d": 0,
-      "stars": 0,
-      "forks": 0,
-      "referrers": []
-    },
-    {
-      "repo": "llm-pricing-tracker",
-      "url": "https://github.com/OneForAllHub/llm-pricing-tracker",
-      "daily_views": 0,
-      "weekly_views": 0,
-      "monthly_views": 0,
-      "weekly_uniques": 0,
-      "monthly_uniques": 0,
-      "clones_14d": 0,
-      "stars": 0,
-      "forks": 0,
-      "referrers": []
-    },
-    {
-      "repo": "trending-ai-mcp-radar",
-      "url": "https://github.com/OneForAllHub/trending-ai-mcp-radar",
-      "daily_views": 0,
-      "weekly_views": 0,
-      "monthly_views": 0,
-      "weekly_uniques": 0,
-      "monthly_uniques": 0,
-      "clones_14d": 0,
-      "stars": 0,
-      "forks": 0,
-      "referrers": []
-    },
-    {
-      "repo": "daily-remote-tech-jobs",
-      "url": "https://github.com/OneForAllHub/daily-remote-tech-jobs",
-      "daily_views": 0,
-      "weekly_views": 0,
-      "monthly_views": 0,
-      "weekly_uniques": 0,
-      "monthly_uniques": 0,
-      "clones_14d": 0,
-      "stars": 0,
-      "forks": 0,
-      "referrers": []
-    },
-    {
-      "repo": "verified-public-apis",
-      "url": "https://github.com/OneForAllHub/verified-public-apis",
-      "daily_views": 0,
-      "weekly_views": 0,
-      "monthly_views": 0,
-      "weekly_uniques": 0,
-      "monthly_uniques": 0,
-      "clones_14d": 0,
-      "stars": 0,
-      "forks": 0,
-      "referrers": []
-    },
-    {
-      "repo": "daily-cve-security-feed",
-      "url": "https://github.com/OneForAllHub/daily-cve-security-feed",
-      "daily_views": 0,
-      "weekly_views": 0,
-      "monthly_views": 0,
-      "weekly_uniques": 0,
-      "monthly_uniques": 0,
-      "clones_14d": 0,
-      "stars": 0,
-      "forks": 0,
-      "referrers": []
-    },
-    {
-      "repo": "free-for-devs-live",
-      "url": "https://github.com/OneForAllHub/free-for-devs-live",
-      "daily_views": 0,
-      "weekly_views": 0,
-      "monthly_views": 0,
-      "weekly_uniques": 0,
-      "monthly_uniques": 0,
-      "clones_14d": 0,
-      "stars": 0,
-      "forks": 0,
-      "referrers": []
-    },
-    {
-      "repo": "free-games-radar",
-      "url": "https://github.com/OneForAllHub/free-games-radar",
-      "daily_views": 0,
-      "weekly_views": 0,
-      "monthly_views": 0,
-      "weekly_uniques": 0,
-      "monthly_uniques": 0,
-      "clones_14d": 0,
-      "stars": 0,
-      "forks": 0,
-      "referrers": []
     }
   ]
 }
