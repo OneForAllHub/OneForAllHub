@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-23T06:23:00Z",
+  "updated_at": "2026-11-23T12:54:10Z",
   "totals": {
     "pages_count": 56,
-    "pages_daily": 2,
-    "pages_weekly": 2,
-    "pages_monthly": 2,
-    "pages_all_time": 2,
+    "pages_daily": 17,
+    "pages_weekly": 17,
+    "pages_monthly": 17,
+    "pages_all_time": 22,
     "repos_daily": 0,
     "repos_weekly": 3,
     "repos_monthly": 3,
@@ -74,7 +74,7 @@
     0,
     0,
     0,
-    2
+    17
   ],
   "repo_series_30": [
     0,
@@ -371,7 +371,7 @@
       "daily": 0,
       "weekly": 0,
       "monthly": 0,
-      "total": 0
+      "total": 1
     },
     {
       "repo": "daily-remote-tech-jobs",
@@ -452,10 +452,10 @@
       "title": "Verified Public APIs — Uptime-Checked Free REST APIs (No Auth)",
       "url": "https://oneforallhub.github.io/verified-public-apis/",
       "type": "Main Hub",
-      "daily": 1,
-      "weekly": 1,
-      "monthly": 1,
-      "total": 1
+      "daily": 4,
+      "weekly": 4,
+      "monthly": 4,
+      "total": 4
     },
     {
       "repo": "verified-public-apis",
@@ -635,7 +635,7 @@
       "daily": 0,
       "weekly": 0,
       "monthly": 0,
-      "total": 0
+      "total": 1
     },
     {
       "repo": "free-for-devs-live",
@@ -704,10 +704,10 @@
       "title": "Free Games Radar — Epic Games, Steam & GOG Temporarily Free Games",
       "url": "https://oneforallhub.github.io/free-games-radar/",
       "type": "Main Hub",
-      "daily": 1,
-      "weekly": 1,
-      "monthly": 1,
-      "total": 1
+      "daily": 4,
+      "weekly": 4,
+      "monthly": 4,
+      "total": 4
     },
     {
       "repo": "free-games-radar",
@@ -728,10 +728,10 @@
       "title": "Steam Temporarily Free Games & Key Giveaways",
       "url": "https://oneforallhub.github.io/free-games-radar/pages/steam-free-games.html",
       "type": "SEO Page",
-      "daily": 0,
-      "weekly": 0,
-      "monthly": 0,
-      "total": 0
+      "daily": 1,
+      "weekly": 1,
+      "monthly": 1,
+      "total": 1
     },
     {
       "repo": "free-games-radar",
@@ -764,10 +764,10 @@
       "title": "OneForAllHub Master SEO Directory",
       "url": "https://oneforallhub.github.io/OneForAllHub/",
       "type": "Master Hub",
-      "daily": 0,
-      "weekly": 0,
-      "monthly": 0,
-      "total": 0
+      "daily": 8,
+      "weekly": 8,
+      "monthly": 8,
+      "total": 8
     },
     {
       "repo": "OneForAllHub",
@@ -779,7 +779,7 @@
       "daily": 0,
       "weekly": 0,
       "monthly": 0,
-      "total": 0
+      "total": 3
     }
   ],
   "repositories": [
