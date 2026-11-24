@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-24T12:54:11Z",
+  "updated_at": "2026-11-24T18:43:35Z",
   "totals": {
     "repos_count": 10,
     "pages_count": 56,
-    "pages_daily": 3,
-    "pages_weekly": 35,
-    "pages_monthly": 35,
-    "pages_all_time": 41,
+    "pages_daily": 4,
+    "pages_weekly": 37,
+    "pages_monthly": 37,
+    "pages_all_time": 43,
     "repos_daily": 0,
     "repos_weekly": 240,
     "repos_monthly": 240,
@@ -74,8 +74,8 @@
     0,
     0,
     0,
-    32,
-    3
+    33,
+    4
   ],
   "repo_series_30": [
     0,
@@ -474,18 +474,6 @@
     },
     {
       "repo": "free-llm-apis-live",
-      "page_slug": "dots-studio-free-models",
-      "page_key": "free-llm-apis-live--dots-studio-free-models",
-      "title": "Free dots-studio LLM API Models (1 Active Endpoints)",
-      "url": "https://oneforallhub.github.io/free-llm-apis-live/pages/dots-studio-free-models.html",
-      "type": "SEO Page",
-      "daily": 0,
-      "weekly": 0,
-      "monthly": 0,
-      "total": 0
-    },
-    {
-      "repo": "free-llm-apis-live",
       "page_slug": "google-free-models",
       "page_key": "free-llm-apis-live--google-free-models",
       "title": "Free google LLM API Models (4 Active Endpoints)",
@@ -526,6 +514,18 @@
       "page_key": "free-llm-apis-live--nvidia-free-models",
       "title": "Free nvidia LLM API Models (4 Active Endpoints)",
       "url": "https://oneforallhub.github.io/free-llm-apis-live/pages/nvidia-free-models.html",
+      "type": "SEO Page",
+      "daily": 0,
+      "weekly": 0,
+      "monthly": 0,
+      "total": 0
+    },
+    {
+      "repo": "free-llm-apis-live",
+      "page_slug": "openrouter-free-models",
+      "page_key": "free-llm-apis-live--openrouter-free-models",
+      "title": "Free openrouter LLM API Models (1 Active Endpoints)",
+      "url": "https://oneforallhub.github.io/free-llm-apis-live/pages/openrouter-free-models.html",
       "type": "SEO Page",
       "daily": 0,
       "weekly": 0,
@@ -923,10 +923,10 @@
       "title": "Daily CVE & CISA KEV Security Feed — Zero-Day & Advisory Tracker",
       "url": "https://oneforallhub.github.io/daily-cve-security-feed/",
       "type": "Main Hub",
-      "daily": 0,
-      "weekly": 4,
-      "monthly": 4,
-      "total": 4
+      "daily": 1,
+      "weekly": 6,
+      "monthly": 6,
+      "total": 6
     },
     {
       "repo": "daily-cve-security-feed",
