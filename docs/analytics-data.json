@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-23T18:44:09Z",
+  "updated_at": "2026-11-24T00:41:34Z",
   "totals": {
     "repos_count": 10,
     "pages_count": 56,
-    "pages_daily": 28,
-    "pages_weekly": 28,
-    "pages_monthly": 28,
-    "pages_all_time": 33,
+    "pages_daily": 0,
+    "pages_weekly": 31,
+    "pages_monthly": 31,
+    "pages_all_time": 36,
     "repos_daily": 0,
     "repos_weekly": 187,
     "repos_monthly": 187,
@@ -14,7 +14,6 @@
     "total_stars": 3
   },
   "dates_30": [
-    "2026-10-25",
     "2026-10-26",
     "2026-10-27",
     "2026-10-28",
@@ -43,7 +42,8 @@
     "2026-11-20",
     "2026-11-21",
     "2026-11-22",
-    "2026-11-23"
+    "2026-11-23",
+    "2026-11-24"
   ],
   "page_series_30": [
     0,
@@ -74,11 +74,10 @@
     0,
     0,
     0,
-    0,
-    28
+    31,
+    0
   ],
   "repo_series_30": [
-    0,
     0,
     0,
     0,
@@ -107,6 +106,7 @@
     72,
     14,
     18,
+    0,
     0
   ],
   "repositories": [
@@ -369,10 +369,10 @@
       "title": "Free LLM APIs Live — Auto-Verified Free AI Models & Endpoints",
       "url": "https://oneforallhub.github.io/free-llm-apis-live/",
       "type": "Main Hub",
-      "daily": 3,
-      "weekly": 3,
-      "monthly": 3,
-      "total": 3
+      "daily": 0,
+      "weekly": 5,
+      "monthly": 5,
+      "total": 5
     },
     {
       "repo": "free-llm-apis-live",
@@ -465,10 +465,10 @@
       "title": "LLM API Pricing Tracker — Daily Cost per 1M Tokens & Context Comparison",
       "url": "https://oneforallhub.github.io/llm-pricing-tracker/",
       "type": "Main Hub",
-      "daily": 3,
-      "weekly": 3,
-      "monthly": 3,
-      "total": 3
+      "daily": 0,
+      "weekly": 4,
+      "monthly": 4,
+      "total": 4
     },
     {
       "repo": "llm-pricing-tracker",
@@ -705,7 +705,7 @@
       "title": "Verified Public APIs — Uptime-Checked Free REST APIs (No Auth)",
       "url": "https://oneforallhub.github.io/verified-public-apis/",
       "type": "Main Hub",
-      "daily": 4,
+      "daily": 0,
       "weekly": 4,
       "monthly": 4,
       "total": 4
@@ -765,7 +765,7 @@
       "title": "Free Geo Public APIs — Daily Uptime & Latency Verified",
       "url": "https://oneforallhub.github.io/verified-public-apis/pages/geo-apis.html",
       "type": "SEO Page",
-      "daily": 1,
+      "daily": 0,
       "weekly": 1,
       "monthly": 1,
       "total": 1
@@ -849,7 +849,7 @@
       "title": "Daily CVE & CISA KEV Security Feed — Zero-Day & Advisory Tracker",
       "url": "https://oneforallhub.github.io/daily-cve-security-feed/",
       "type": "Main Hub",
-      "daily": 4,
+      "daily": 0,
       "weekly": 4,
       "monthly": 4,
       "total": 4
@@ -957,7 +957,7 @@
       "title": "Free Games Radar — Epic Games, Steam & GOG Temporarily Free Games",
       "url": "https://oneforallhub.github.io/free-games-radar/",
       "type": "Main Hub",
-      "daily": 4,
+      "daily": 0,
       "weekly": 4,
       "monthly": 4,
       "total": 4
@@ -981,7 +981,7 @@
       "title": "Steam Temporarily Free Games & Key Giveaways",
       "url": "https://oneforallhub.github.io/free-games-radar/pages/steam-free-games.html",
       "type": "SEO Page",
-      "daily": 1,
+      "daily": 0,
       "weekly": 1,
       "monthly": 1,
       "total": 1
@@ -1017,7 +1017,7 @@
       "title": "OneForAllHub Master SEO Directory",
       "url": "https://oneforallhub.github.io/OneForAllHub/",
       "type": "Master Hub",
-      "daily": 8,
+      "daily": 0,
       "weekly": 8,
       "monthly": 8,
       "total": 8
