@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-24T00:41:34Z",
+  "updated_at": "2026-11-24T06:52:26Z",
   "totals": {
     "repos_count": 10,
     "pages_count": 56,
-    "pages_daily": 0,
-    "pages_weekly": 31,
-    "pages_monthly": 31,
-    "pages_all_time": 36,
+    "pages_daily": 3,
+    "pages_weekly": 35,
+    "pages_monthly": 35,
+    "pages_all_time": 41,
     "repos_daily": 0,
-    "repos_weekly": 187,
-    "repos_monthly": 187,
-    "repos_uniques_monthly": 93,
+    "repos_weekly": 194,
+    "repos_monthly": 194,
+    "repos_uniques_monthly": 99,
     "total_stars": 3
   },
   "dates_30": [
@@ -74,8 +74,8 @@
     0,
     0,
     0,
-    31,
-    0
+    32,
+    3
   ],
   "repo_series_30": [
     0,
@@ -106,7 +106,7 @@
     72,
     14,
     18,
-    0,
+    7,
     0
   ],
   "repositories": [
@@ -136,17 +136,17 @@
       "description": "OneForAll | AI • VPN • TECH — Official GitHub Profile for @OneForAllHub",
       "homepage": "https://t.me/OneForAllHub",
       "daily_views": 0,
-      "weekly_views": 3,
-      "monthly_views": 3,
-      "weekly_uniques": 3,
-      "monthly_uniques": 3,
-      "clones_14d": 52,
+      "weekly_views": 6,
+      "monthly_views": 6,
+      "weekly_uniques": 5,
+      "monthly_uniques": 5,
+      "clones_14d": 151,
       "stars": 0,
       "forks": 0,
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 3
+          "count": 5
         }
       ]
     },
@@ -156,14 +156,39 @@
       "description": "Automated daily cybersecurity feed tracking CISA Known Exploited Vulnerabilities (KEV) and critical GitHub Security Advisories with JSON & RSS feeds.",
       "homepage": "https://oneforallhub.github.io/daily-cve-security-feed/",
       "daily_views": 0,
-      "weekly_views": 0,
-      "monthly_views": 0,
-      "weekly_uniques": 0,
-      "monthly_uniques": 0,
-      "clones_14d": 0,
+      "weekly_views": 2,
+      "monthly_views": 2,
+      "weekly_uniques": 2,
+      "monthly_uniques": 2,
+      "clones_14d": 123,
       "stars": 0,
       "forks": 0,
-      "referrers": []
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "repo": "free-games-radar",
+      "url": "https://github.com/OneForAllHub/free-games-radar",
+      "description": "Free Games Radar - Automated tracker for temporarily free PC games on Epic Games, Steam, GOG & more with claim links, end dates, and Telegram alerts.",
+      "homepage": "https://oneforallhub.github.io/free-games-radar/",
+      "daily_views": 0,
+      "weekly_views": 2,
+      "monthly_views": 2,
+      "weekly_uniques": 2,
+      "monthly_uniques": 2,
+      "clones_14d": 97,
+      "stars": 0,
+      "forks": 0,
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1
+        }
+      ]
     },
     {
       "repo": "daily-remote-tech-jobs",
@@ -185,21 +210,6 @@
       "url": "https://github.com/OneForAllHub/free-for-devs-live",
       "description": "Auto-checked directory of free hosting, cloud credits, databases, auth, email, and developer infrastructure tiers with live status checks.",
       "homepage": "https://oneforallhub.github.io/free-for-devs-live/",
-      "daily_views": 0,
-      "weekly_views": 0,
-      "monthly_views": 0,
-      "weekly_uniques": 0,
-      "monthly_uniques": 0,
-      "clones_14d": 0,
-      "stars": 0,
-      "forks": 0,
-      "referrers": []
-    },
-    {
-      "repo": "free-games-radar",
-      "url": "https://github.com/OneForAllHub/free-games-radar",
-      "description": "Free Games Radar - Automated tracker for temporarily free PC games on Epic Games, Steam, GOG & more with claim links, end dates, and Telegram alerts.",
-      "homepage": "https://oneforallhub.github.io/free-games-radar/",
       "daily_views": 0,
       "weekly_views": 0,
       "monthly_views": 0,
@@ -235,7 +245,7 @@
       "monthly_views": 0,
       "weekly_uniques": 0,
       "monthly_uniques": 0,
-      "clones_14d": 0,
+      "clones_14d": 138,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -313,6 +323,14 @@
       "url": "https://github.com/OneForAllHub/HotaruNet/blob/main/README.fa.md"
     },
     {
+      "repo": "OneForAllHub",
+      "path": "/OneForAllHub/OneForAllHub",
+      "title": "Overview",
+      "count": 6,
+      "uniques": 5,
+      "url": "https://github.com/OneForAllHub/OneForAllHub"
+    },
+    {
       "repo": "HotaruNet",
       "path": "/OneForAllHub/HotaruNet/tree/main/V2rayNG",
       "title": "/tree/main/V2rayNG",
@@ -321,20 +339,28 @@
       "url": "https://github.com/OneForAllHub/HotaruNet/tree/main/V2rayNG"
     },
     {
-      "repo": "OneForAllHub",
-      "path": "/OneForAllHub/OneForAllHub",
-      "title": "Overview",
-      "count": 3,
-      "uniques": 3,
-      "url": "https://github.com/OneForAllHub/OneForAllHub"
-    },
-    {
       "repo": "HotaruNet",
       "path": "/OneForAllHub/HotaruNet/blob/main/ARCHITECTURE.fa.md",
       "title": "/blob/main/ARCHITECTURE.fa.md",
       "count": 3,
       "uniques": 1,
       "url": "https://github.com/OneForAllHub/HotaruNet/blob/main/ARCHITECTURE.fa.md"
+    },
+    {
+      "repo": "daily-cve-security-feed",
+      "path": "/OneForAllHub/daily-cve-security-feed",
+      "title": "Overview",
+      "count": 2,
+      "uniques": 2,
+      "url": "https://github.com/OneForAllHub/daily-cve-security-feed"
+    },
+    {
+      "repo": "free-games-radar",
+      "path": "/OneForAllHub/free-games-radar",
+      "title": "Overview",
+      "count": 2,
+      "uniques": 2,
+      "url": "https://github.com/OneForAllHub/free-games-radar"
     },
     {
       "repo": "HotaruNet",
@@ -369,10 +395,10 @@
       "title": "Free LLM APIs Live — Auto-Verified Free AI Models & Endpoints",
       "url": "https://oneforallhub.github.io/free-llm-apis-live/",
       "type": "Main Hub",
-      "daily": 0,
-      "weekly": 5,
-      "monthly": 5,
-      "total": 5
+      "daily": 2,
+      "weekly": 7,
+      "monthly": 7,
+      "total": 7
     },
     {
       "repo": "free-llm-apis-live",
@@ -384,7 +410,7 @@
       "daily": 0,
       "weekly": 0,
       "monthly": 0,
-      "total": 0
+      "total": 1
     },
     {
       "repo": "free-llm-apis-live",
@@ -393,10 +419,10 @@
       "title": "Free baidu LLM API Models (1 Active Endpoints)",
       "url": "https://oneforallhub.github.io/free-llm-apis-live/pages/baidu-free-models.html",
       "type": "SEO Page",
-      "daily": 0,
-      "weekly": 0,
-      "monthly": 0,
-      "total": 0
+      "daily": 1,
+      "weekly": 1,
+      "monthly": 1,
+      "total": 1
     },
     {
       "repo": "free-llm-apis-live",
@@ -706,9 +732,9 @@
       "url": "https://oneforallhub.github.io/verified-public-apis/",
       "type": "Main Hub",
       "daily": 0,
-      "weekly": 4,
-      "monthly": 4,
-      "total": 4
+      "weekly": 5,
+      "monthly": 5,
+      "total": 5
     },
     {
       "repo": "verified-public-apis",
