@@ -1,20 +1,19 @@
 {
-  "updated_at": "2026-11-24T18:43:35Z",
+  "updated_at": "2026-11-25T00:44:37Z",
   "totals": {
     "repos_count": 10,
     "pages_count": 56,
-    "pages_daily": 4,
-    "pages_weekly": 37,
-    "pages_monthly": 37,
-    "pages_all_time": 43,
+    "pages_daily": 0,
+    "pages_weekly": 42,
+    "pages_monthly": 42,
+    "pages_all_time": 47,
     "repos_daily": 0,
-    "repos_weekly": 240,
+    "repos_weekly": 239,
     "repos_monthly": 240,
     "repos_uniques_monthly": 126,
     "total_stars": 4
   },
   "dates_30": [
-    "2026-10-26",
     "2026-10-27",
     "2026-10-28",
     "2026-10-29",
@@ -43,7 +42,8 @@
     "2026-11-21",
     "2026-11-22",
     "2026-11-23",
-    "2026-11-24"
+    "2026-11-24",
+    "2026-11-25"
   ],
   "page_series_30": [
     0,
@@ -73,12 +73,11 @@
     0,
     0,
     0,
-    0,
     33,
-    4
+    9,
+    0
   ],
   "repo_series_30": [
-    0,
     0,
     0,
     0,
@@ -107,6 +106,7 @@
     14,
     18,
     53,
+    0,
     0
   ],
   "repositories": [
@@ -136,9 +136,9 @@
       "description": "OneForAll | AI • VPN • TECH — Official GitHub Profile for @OneForAllHub",
       "homepage": "https://t.me/OneForAllHub",
       "daily_views": 0,
-      "weekly_views": 6,
+      "weekly_views": 5,
       "monthly_views": 6,
-      "weekly_uniques": 5,
+      "weekly_uniques": 4,
       "monthly_uniques": 5,
       "clones_14d": 151,
       "stars": 0,
@@ -443,10 +443,10 @@
       "title": "Free LLM APIs Live — Auto-Verified Free AI Models & Endpoints",
       "url": "https://oneforallhub.github.io/free-llm-apis-live/",
       "type": "Main Hub",
-      "daily": 2,
-      "weekly": 7,
-      "monthly": 7,
-      "total": 7
+      "daily": 0,
+      "weekly": 8,
+      "monthly": 8,
+      "total": 8
     },
     {
       "repo": "free-llm-apis-live",
@@ -456,9 +456,9 @@
       "url": "https://oneforallhub.github.io/free-llm-apis-live/pages/free-llm-providers.html",
       "type": "SEO Page",
       "daily": 0,
-      "weekly": 0,
-      "monthly": 0,
-      "total": 1
+      "weekly": 2,
+      "monthly": 2,
+      "total": 2
     },
     {
       "repo": "free-llm-apis-live",
@@ -467,10 +467,10 @@
       "title": "Free baidu LLM API Models (1 Active Endpoints)",
       "url": "https://oneforallhub.github.io/free-llm-apis-live/pages/baidu-free-models.html",
       "type": "SEO Page",
-      "daily": 1,
-      "weekly": 1,
-      "monthly": 1,
-      "total": 1
+      "daily": 0,
+      "weekly": 2,
+      "monthly": 2,
+      "total": 2
     },
     {
       "repo": "free-llm-apis-live",
@@ -540,9 +540,9 @@
       "url": "https://oneforallhub.github.io/llm-pricing-tracker/",
       "type": "Main Hub",
       "daily": 0,
-      "weekly": 4,
-      "monthly": 4,
-      "total": 4
+      "weekly": 5,
+      "monthly": 5,
+      "total": 5
     },
     {
       "repo": "llm-pricing-tracker",
@@ -923,7 +923,7 @@
       "title": "Daily CVE & CISA KEV Security Feed — Zero-Day & Advisory Tracker",
       "url": "https://oneforallhub.github.io/daily-cve-security-feed/",
       "type": "Main Hub",
-      "daily": 1,
+      "daily": 0,
       "weekly": 6,
       "monthly": 6,
       "total": 6
