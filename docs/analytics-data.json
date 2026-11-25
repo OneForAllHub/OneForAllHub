@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-25T00:44:37Z",
+  "updated_at": "2026-11-25T06:55:18Z",
   "totals": {
     "repos_count": 10,
     "pages_count": 56,
     "pages_daily": 0,
     "pages_weekly": 42,
     "pages_monthly": 42,
-    "pages_all_time": 47,
+    "pages_all_time": 48,
     "repos_daily": 0,
-    "repos_weekly": 239,
-    "repos_monthly": 240,
-    "repos_uniques_monthly": 126,
+    "repos_weekly": 300,
+    "repos_monthly": 301,
+    "repos_uniques_monthly": 161,
     "total_stars": 4
   },
   "dates_30": [
@@ -106,7 +106,7 @@
     14,
     18,
     53,
-    0,
+    61,
     0
   ],
   "repositories": [
@@ -116,17 +116,53 @@
       "description": "Autonomous zero-config Android & Windows VPN (VLESS REALITY, Hysteria 2, Cloudflare WARP, XHTTP, Xray-core, Wintun TUN & No Proxy SOCKS5/HTTP) with 4-stage robot UI, real throughput probing & auto-failover. فیلترشکن هوشمند و رایگان اندروید و ویندوز",
       "homepage": "https://t.me/OneForAllHub",
       "daily_views": 0,
-      "weekly_views": 223,
-      "monthly_views": 223,
-      "weekly_uniques": 110,
-      "monthly_uniques": 110,
-      "clones_14d": 119,
+      "weekly_views": 280,
+      "monthly_views": 280,
+      "weekly_uniques": 141,
+      "monthly_uniques": 141,
+      "clones_14d": 141,
       "stars": 4,
       "forks": 0,
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 25
+          "count": 31
+        },
+        {
+          "referrer": "lowendtalk.com",
+          "count": 7
+        },
+        {
+          "referrer": "elevenforum.com",
+          "count": 5
+        },
+        {
+          "referrer": "xdaforums.com",
+          "count": 4
+        },
+        {
+          "referrer": "forums.mydigitallife.net",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "repo": "daily-cve-security-feed",
+      "url": "https://github.com/OneForAllHub/daily-cve-security-feed",
+      "description": "Automated daily cybersecurity feed tracking CISA Known Exploited Vulnerabilities (KEV) and critical GitHub Security Advisories with JSON & RSS feeds.",
+      "homepage": "https://oneforallhub.github.io/daily-cve-security-feed/",
+      "daily_views": 0,
+      "weekly_views": 6,
+      "monthly_views": 6,
+      "weekly_uniques": 6,
+      "monthly_uniques": 6,
+      "clones_14d": 212,
+      "stars": 0,
+      "forks": 0,
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1
         }
       ]
     },
@@ -140,33 +176,13 @@
       "monthly_views": 6,
       "weekly_uniques": 4,
       "monthly_uniques": 5,
-      "clones_14d": 151,
+      "clones_14d": 211,
       "stars": 0,
       "forks": 0,
       "referrers": [
         {
           "referrer": "github.com",
           "count": 5
-        }
-      ]
-    },
-    {
-      "repo": "daily-cve-security-feed",
-      "url": "https://github.com/OneForAllHub/daily-cve-security-feed",
-      "description": "Automated daily cybersecurity feed tracking CISA Known Exploited Vulnerabilities (KEV) and critical GitHub Security Advisories with JSON & RSS feeds.",
-      "homepage": "https://oneforallhub.github.io/daily-cve-security-feed/",
-      "daily_views": 0,
-      "weekly_views": 2,
-      "monthly_views": 2,
-      "weekly_uniques": 2,
-      "monthly_uniques": 2,
-      "clones_14d": 123,
-      "stars": 0,
-      "forks": 0,
-      "referrers": [
-        {
-          "referrer": "github.com",
-          "count": 1
         }
       ]
     },
@@ -286,8 +302,8 @@
       "repo": "HotaruNet",
       "path": "/OneForAllHub/HotaruNet",
       "title": "Overview",
-      "count": 74,
-      "uniques": 47,
+      "count": 101,
+      "uniques": 71,
       "url": "https://github.com/OneForAllHub/HotaruNet"
     },
     {
@@ -302,8 +318,8 @@
       "repo": "HotaruNet",
       "path": "/OneForAllHub/HotaruNet/releases/tag/v2.3.44",
       "title": "/releases/tag/v2.3.44",
-      "count": 23,
-      "uniques": 13,
+      "count": 35,
+      "uniques": 24,
       "url": "https://github.com/OneForAllHub/HotaruNet/releases/tag/v2.3.44"
     },
     {
@@ -316,19 +332,19 @@
     },
     {
       "repo": "HotaruNet",
+      "path": "/OneForAllHub/HotaruNet/blob/main/README.fa.md",
+      "title": "/blob/main/README.fa.md",
+      "count": 8,
+      "uniques": 4,
+      "url": "https://github.com/OneForAllHub/HotaruNet/blob/main/README.fa.md"
+    },
+    {
+      "repo": "HotaruNet",
       "path": "/OneForAllHub/HotaruNet/releases",
       "title": "/releases",
       "count": 7,
       "uniques": 5,
       "url": "https://github.com/OneForAllHub/HotaruNet/releases"
-    },
-    {
-      "repo": "HotaruNet",
-      "path": "/OneForAllHub/HotaruNet/blob/main/README.fa.md",
-      "title": "/blob/main/README.fa.md",
-      "count": 7,
-      "uniques": 3,
-      "url": "https://github.com/OneForAllHub/HotaruNet/blob/main/README.fa.md"
     },
     {
       "repo": "OneForAllHub",
@@ -348,35 +364,35 @@
     },
     {
       "repo": "HotaruNet",
-      "path": "/OneForAllHub/HotaruNet/blob/main/ARCHITECTURE.fa.md",
-      "title": "/blob/main/ARCHITECTURE.fa.md",
-      "count": 4,
-      "uniques": 2,
-      "url": "https://github.com/OneForAllHub/HotaruNet/blob/main/ARCHITECTURE.fa.md"
-    },
-    {
-      "repo": "HotaruNet",
-      "path": "/OneForAllHub/HotaruNet/tree/main/V2rayNG/app",
-      "title": "/tree/main/V2rayNG/app",
-      "count": 3,
-      "uniques": 3,
-      "url": "https://github.com/OneForAllHub/HotaruNet/tree/main/V2rayNG/app"
-    },
-    {
-      "repo": "HotaruNet",
-      "path": "/OneForAllHub/HotaruNet/tree/main/V2rayNG/app/src",
-      "title": "/tree/main/V2rayNG/app/src",
-      "count": 3,
-      "uniques": 3,
-      "url": "https://github.com/OneForAllHub/HotaruNet/tree/main/V2rayNG/app/src"
+      "path": "/OneForAllHub/HotaruNet/tree/main/assets/screenshots",
+      "title": "/tree/main/assets/screenshots",
+      "count": 5,
+      "uniques": 4,
+      "url": "https://github.com/OneForAllHub/HotaruNet/tree/main/assets/screenshots"
     },
     {
       "repo": "daily-cve-security-feed",
       "path": "/OneForAllHub/daily-cve-security-feed",
       "title": "Overview",
-      "count": 2,
-      "uniques": 2,
+      "count": 4,
+      "uniques": 4,
       "url": "https://github.com/OneForAllHub/daily-cve-security-feed"
+    },
+    {
+      "repo": "HotaruNet",
+      "path": "/OneForAllHub/HotaruNet/blob/main/assets/screenshots/connected-en.png",
+      "title": "/blob/main/assets/screenshots/connected-en.png",
+      "count": 4,
+      "uniques": 3,
+      "url": "https://github.com/OneForAllHub/HotaruNet/blob/main/assets/screenshots/connected-en.png"
+    },
+    {
+      "repo": "HotaruNet",
+      "path": "/OneForAllHub/HotaruNet/blob/main/ARCHITECTURE.fa.md",
+      "title": "/blob/main/ARCHITECTURE.fa.md",
+      "count": 4,
+      "uniques": 2,
+      "url": "https://github.com/OneForAllHub/HotaruNet/blob/main/ARCHITECTURE.fa.md"
     },
     {
       "repo": "free-games-radar",
@@ -393,6 +409,22 @@
       "count": 2,
       "uniques": 2,
       "url": "https://github.com/OneForAllHub/trending-ai-mcp-radar"
+    },
+    {
+      "repo": "daily-cve-security-feed",
+      "path": "/OneForAllHub/daily-cve-security-feed/commit/55fd15712ad7eb2007eec138347eef3525b55e34",
+      "title": "/commit/55fd15712ad7eb2007eec138347eef3525b55e34",
+      "count": 1,
+      "uniques": 1,
+      "url": "https://github.com/OneForAllHub/daily-cve-security-feed/commit/55fd15712ad7eb2007eec138347eef3525b55e34"
+    },
+    {
+      "repo": "daily-cve-security-feed",
+      "path": "/OneForAllHub/daily-cve-security-feed/tree/main/data",
+      "title": "/tree/main/data",
+      "count": 1,
+      "uniques": 1,
+      "url": "https://github.com/OneForAllHub/daily-cve-security-feed/tree/main/data"
     },
     {
       "repo": "daily-remote-tech-jobs",
@@ -1034,7 +1066,7 @@
       "daily": 0,
       "weekly": 4,
       "monthly": 4,
-      "total": 4
+      "total": 5
     },
     {
       "repo": "free-games-radar",
