@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-26T06:54:01Z",
+  "updated_at": "2026-11-26T12:56:02Z",
   "totals": {
     "repos_count": 17,
     "pages_count": 56,
-    "pages_daily": 0,
-    "pages_weekly": 45,
-    "pages_monthly": 45,
-    "pages_all_time": 58,
+    "pages_daily": 1,
+    "pages_weekly": 46,
+    "pages_monthly": 46,
+    "pages_all_time": 59,
     "repos_daily": 0,
-    "repos_weekly": 263,
-    "repos_monthly": 346,
-    "repos_uniques_monthly": 190,
+    "repos_weekly": 271,
+    "repos_monthly": 354,
+    "repos_uniques_monthly": 191,
     "total_stars": 4
   },
   "dates_30": [
@@ -75,7 +75,7 @@
     33,
     9,
     3,
-    0
+    1
   ],
   "repo_series_30": [
     0,
@@ -106,7 +106,7 @@
     18,
     53,
     67,
-    39,
+    47,
     0
   ],
   "repositories": [
@@ -160,6 +160,26 @@
       "stars": 0,
       "forks": 0,
       "referrers": []
+    },
+    {
+      "repo": "winget-pkgs",
+      "url": "https://github.com/OneForAllHub/winget-pkgs",
+      "description": "The Microsoft community Windows Package Manager manifest repository",
+      "homepage": "",
+      "daily_views": 0,
+      "weekly_views": 8,
+      "monthly_views": 8,
+      "weekly_uniques": 1,
+      "monthly_uniques": 1,
+      "clones_14d": 7,
+      "stars": 0,
+      "forks": 0,
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1
+        }
+      ]
     },
     {
       "repo": "OneForAllHub",
@@ -276,7 +296,7 @@
       "monthly_views": 1,
       "weekly_uniques": 1,
       "monthly_uniques": 1,
-      "clones_14d": 172,
+      "clones_14d": 235,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -321,7 +341,7 @@
       "monthly_views": 0,
       "weekly_uniques": 0,
       "monthly_uniques": 0,
-      "clones_14d": 0,
+      "clones_14d": 3,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -336,7 +356,7 @@
       "monthly_views": 0,
       "weekly_uniques": 0,
       "monthly_uniques": 0,
-      "clones_14d": 0,
+      "clones_14d": 3,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -366,7 +386,7 @@
       "monthly_views": 0,
       "weekly_uniques": 0,
       "monthly_uniques": 0,
-      "clones_14d": 0,
+      "clones_14d": 4,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -382,21 +402,6 @@
       "weekly_uniques": 0,
       "monthly_uniques": 0,
       "clones_14d": 211,
-      "stars": 0,
-      "forks": 0,
-      "referrers": []
-    },
-    {
-      "repo": "winget-pkgs",
-      "url": "https://github.com/OneForAllHub/winget-pkgs",
-      "description": "The Microsoft community Windows Package Manager manifest repository",
-      "homepage": "",
-      "daily_views": 0,
-      "weekly_views": 0,
-      "monthly_views": 0,
-      "weekly_uniques": 0,
-      "monthly_uniques": 0,
-      "clones_14d": 0,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -516,6 +521,14 @@
       "url": "https://github.com/OneForAllHub/trending-ai-mcp-radar"
     },
     {
+      "repo": "winget-pkgs",
+      "path": "/OneForAllHub/winget-pkgs/tree/OneForAllHub.HotaruNet-2.3.44/manifests/o/OneForAllHub/HotaruNet/2.3.44",
+      "title": "/tree/OneForAllHub.HotaruNet-2.3.44/manifests/o/OneForAllHub/HotaruNet/2.3.44",
+      "count": 3,
+      "uniques": 1,
+      "url": "https://github.com/OneForAllHub/winget-pkgs/tree/OneForAllHub.HotaruNet-2.3.44/manifests/o/OneForAllHub/HotaruNet/2.3.44"
+    },
+    {
       "repo": "free-games-radar",
       "path": "/OneForAllHub/free-games-radar",
       "title": "Overview",
@@ -530,6 +543,14 @@
       "count": 2,
       "uniques": 1,
       "url": "https://github.com/OneForAllHub/awesome-anticensor/edit/main/README.md"
+    },
+    {
+      "repo": "winget-pkgs",
+      "path": "/OneForAllHub/winget-pkgs",
+      "title": "Overview",
+      "count": 2,
+      "uniques": 1,
+      "url": "https://github.com/OneForAllHub/winget-pkgs"
     },
     {
       "repo": "awesome-anticensor",
@@ -618,6 +639,30 @@
       "count": 1,
       "uniques": 1,
       "url": "https://github.com/OneForAllHub/verified-public-apis"
+    },
+    {
+      "repo": "winget-pkgs",
+      "path": "/OneForAllHub/winget-pkgs/new/OneForAllHub.HotaruNet-2.3.44",
+      "title": "/new/OneForAllHub.HotaruNet-2.3.44",
+      "count": 1,
+      "uniques": 1,
+      "url": "https://github.com/OneForAllHub/winget-pkgs/new/OneForAllHub.HotaruNet-2.3.44"
+    },
+    {
+      "repo": "winget-pkgs",
+      "path": "/OneForAllHub/winget-pkgs/new/OneForAllHub.HotaruNet-2.3.44/manifests/o/OneForAllHub/HotaruNet/2.3.44",
+      "title": "/new/OneForAllHub.HotaruNet-2.3.44/manifests/o/OneForAllHub/HotaruNet/2.3.44",
+      "count": 1,
+      "uniques": 1,
+      "url": "https://github.com/OneForAllHub/winget-pkgs/new/OneForAllHub.HotaruNet-2.3.44/manifests/o/OneForAllHub/HotaruNet/2.3.44"
+    },
+    {
+      "repo": "winget-pkgs",
+      "path": "/OneForAllHub/winget-pkgs/tree/OneForAllHub.HotaruNet-2.3.44",
+      "title": "/tree/OneForAllHub.HotaruNet-2.3.44",
+      "count": 1,
+      "uniques": 1,
+      "url": "https://github.com/OneForAllHub/winget-pkgs/tree/OneForAllHub.HotaruNet-2.3.44"
     }
   ],
   "pages": [
@@ -1108,10 +1153,10 @@
       "title": "Daily CVE & CISA KEV Security Feed — Zero-Day & Advisory Tracker",
       "url": "https://oneforallhub.github.io/daily-cve-security-feed/",
       "type": "Main Hub",
-      "daily": 0,
-      "weekly": 6,
-      "monthly": 6,
-      "total": 6
+      "daily": 1,
+      "weekly": 7,
+      "monthly": 7,
+      "total": 7
     },
     {
       "repo": "daily-cve-security-feed",
