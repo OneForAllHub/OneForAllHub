@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-26T12:56:02Z",
+  "updated_at": "2026-11-26T18:42:22Z",
   "totals": {
     "repos_count": 17,
     "pages_count": 56,
-    "pages_daily": 1,
-    "pages_weekly": 46,
-    "pages_monthly": 46,
-    "pages_all_time": 59,
+    "pages_daily": 2,
+    "pages_weekly": 47,
+    "pages_monthly": 47,
+    "pages_all_time": 60,
     "repos_daily": 0,
     "repos_weekly": 271,
     "repos_monthly": 354,
@@ -75,7 +75,7 @@
     33,
     9,
     3,
-    1
+    2
   ],
   "repo_series_30": [
     0,
@@ -745,10 +745,10 @@
       "title": "Free nvidia LLM API Models (4 Active Endpoints)",
       "url": "https://oneforallhub.github.io/free-llm-apis-live/pages/nvidia-free-models.html",
       "type": "SEO Page",
-      "daily": 0,
-      "weekly": 0,
-      "monthly": 0,
-      "total": 0
+      "daily": 1,
+      "weekly": 1,
+      "monthly": 1,
+      "total": 1
     },
     {
       "repo": "free-llm-apis-live",
