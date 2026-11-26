@@ -1,20 +1,19 @@
 {
-  "updated_at": "2026-11-25T18:38:19Z",
+  "updated_at": "2026-11-26T00:44:53Z",
   "totals": {
     "repos_count": 17,
     "pages_count": 56,
     "pages_daily": 0,
-    "pages_weekly": 42,
-    "pages_monthly": 42,
-    "pages_all_time": 48,
+    "pages_weekly": 43,
+    "pages_monthly": 43,
+    "pages_all_time": 49,
     "repos_daily": 0,
-    "repos_weekly": 306,
+    "repos_weekly": 224,
     "repos_monthly": 307,
     "repos_uniques_monthly": 166,
     "total_stars": 4
   },
   "dates_30": [
-    "2026-10-27",
     "2026-10-28",
     "2026-10-29",
     "2026-10-30",
@@ -43,7 +42,8 @@
     "2026-11-22",
     "2026-11-23",
     "2026-11-24",
-    "2026-11-25"
+    "2026-11-25",
+    "2026-11-26"
   ],
   "page_series_30": [
     0,
@@ -72,13 +72,12 @@
     0,
     0,
     0,
-    0,
     33,
     9,
+    1,
     0
   ],
   "repo_series_30": [
-    0,
     0,
     0,
     0,
@@ -107,6 +106,7 @@
     18,
     53,
     67,
+    0,
     0
   ],
   "repositories": [
@@ -116,9 +116,9 @@
       "description": "Autonomous zero-config Android & Windows VPN (VLESS REALITY, Hysteria 2, Cloudflare WARP, XHTTP, Xray-core, Wintun TUN & No Proxy SOCKS5/HTTP) with 4-stage robot UI, real throughput probing & auto-failover. فیلترشکن هوشمند و رایگان اندروید و ویندوز",
       "homepage": "https://oneforallhub.github.io/HotaruNet/",
       "daily_views": 0,
-      "weekly_views": 280,
+      "weekly_views": 198,
       "monthly_views": 280,
-      "weekly_uniques": 141,
+      "weekly_uniques": 107,
       "monthly_uniques": 141,
       "clones_14d": 141,
       "stars": 4,
@@ -581,9 +581,9 @@
       "url": "https://oneforallhub.github.io/free-llm-apis-live/",
       "type": "Main Hub",
       "daily": 0,
-      "weekly": 8,
-      "monthly": 8,
-      "total": 8
+      "weekly": 9,
+      "monthly": 9,
+      "total": 9
     },
     {
       "repo": "free-llm-apis-live",
