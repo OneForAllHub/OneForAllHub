@@ -11,12 +11,12 @@ Auto-updated open-source datasets, live developer directories, security intellig
 | Project | Description | Stars |
 | --- | --- | ---: |
 | [HotaruNet](https://github.com/OneForAllHub/HotaruNet) | Autonomous zero-config Android & Windows VPN (VLESS REALITY, Hysteria 2, Cloudflare WARP, XHTTP, Xray-core, Wintun TUN & No Proxy SOCKS5/HTTP) with 4-stage robot UI, real throughput probing & auto-failover. فیلترشکن هوشمند و رایگان اندروید و ویندوز | ★ 4 |
-| [awesome-anti-censorship](https://github.com/OneForAllHub/awesome-anti-censorship) | curated list of open-source anti-censorship tools | ★ 0 |
 | [awesome-anticensor](https://github.com/OneForAllHub/awesome-anticensor) | A curated list of censorship circumvention tools | ★ 0 |
+| [Extras](https://github.com/OneForAllHub/Extras) | 📦 The Extras bucket for Scoop. | ★ 0 |
+| [awesome-anti-censorship](https://github.com/OneForAllHub/awesome-anti-censorship) | curated list of open-source anti-censorship tools | ★ 0 |
 | [awesome-freedom](https://github.com/OneForAllHub/awesome-freedom) | In this repository we have collected all awesome tools for iranian people | ★ 0 |
 | [awesome-tunneling](https://github.com/OneForAllHub/awesome-tunneling) | List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting. | ★ 0 |
 | [awesome-vpn](https://github.com/OneForAllHub/awesome-vpn) | Free proxy node aggregator. Daily updated vmess/vless/trojan/ss. 免费 代理节点 翻墙 梯子 科学上网 机场订阅 网络加速 VPN 免翻墙每日更新 一键导入 | ★ 0 |
-| [Extras](https://github.com/OneForAllHub/Extras) | 📦 The Extras bucket for Scoop. | ★ 0 |
 | [winget-pkgs](https://github.com/OneForAllHub/winget-pkgs) | The Microsoft community Windows Package Manager manifest repository | ★ 0 |
 
 ## 🔥 Live Auto-Updated Trackers (56 Indexed SEO Pages)

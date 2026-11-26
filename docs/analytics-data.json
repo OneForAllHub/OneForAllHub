@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-26T00:44:53Z",
+  "updated_at": "2026-11-26T06:54:01Z",
   "totals": {
     "repos_count": 17,
     "pages_count": 56,
     "pages_daily": 0,
-    "pages_weekly": 43,
-    "pages_monthly": 43,
-    "pages_all_time": 49,
+    "pages_weekly": 45,
+    "pages_monthly": 45,
+    "pages_all_time": 58,
     "repos_daily": 0,
-    "repos_weekly": 224,
-    "repos_monthly": 307,
-    "repos_uniques_monthly": 166,
+    "repos_weekly": 263,
+    "repos_monthly": 346,
+    "repos_uniques_monthly": 190,
     "total_stars": 4
   },
   "dates_30": [
@@ -74,7 +74,7 @@
     0,
     33,
     9,
-    1,
+    3,
     0
   ],
   "repo_series_30": [
@@ -106,7 +106,7 @@
     18,
     53,
     67,
-    0,
+    39,
     0
   ],
   "repositories": [
@@ -116,29 +116,29 @@
       "description": "Autonomous zero-config Android & Windows VPN (VLESS REALITY, Hysteria 2, Cloudflare WARP, XHTTP, Xray-core, Wintun TUN & No Proxy SOCKS5/HTTP) with 4-stage robot UI, real throughput probing & auto-failover. فیلترشکن هوشمند و رایگان اندروید و ویندوز",
       "homepage": "https://oneforallhub.github.io/HotaruNet/",
       "daily_views": 0,
-      "weekly_views": 198,
-      "monthly_views": 280,
-      "weekly_uniques": 107,
-      "monthly_uniques": 141,
-      "clones_14d": 141,
+      "weekly_views": 226,
+      "monthly_views": 308,
+      "weekly_uniques": 125,
+      "monthly_uniques": 159,
+      "clones_14d": 166,
       "stars": 4,
       "forks": 0,
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 31
+          "count": 34
         },
         {
           "referrer": "lowendtalk.com",
-          "count": 7
+          "count": 8
         },
         {
           "referrer": "elevenforum.com",
-          "count": 5
+          "count": 6
         },
         {
           "referrer": "xdaforums.com",
-          "count": 4
+          "count": 5
         },
         {
           "referrer": "forums.mydigitallife.net",
@@ -152,14 +152,34 @@
       "description": "Live auto-updated directory of free LLM APIs & AI models with automated status checks, context windows, and JSON/CSV feeds.",
       "homepage": "https://oneforallhub.github.io/free-llm-apis-live/",
       "daily_views": 0,
-      "weekly_views": 8,
-      "monthly_views": 8,
-      "weekly_uniques": 7,
-      "monthly_uniques": 7,
-      "clones_14d": 167,
+      "weekly_views": 10,
+      "monthly_views": 10,
+      "weekly_uniques": 9,
+      "monthly_uniques": 9,
+      "clones_14d": 218,
       "stars": 0,
       "forks": 0,
       "referrers": []
+    },
+    {
+      "repo": "OneForAllHub",
+      "url": "https://github.com/OneForAllHub/OneForAllHub",
+      "description": "OneForAll | AI • VPN • TECH — Official GitHub Profile for @OneForAllHub",
+      "homepage": "https://t.me/OneForAllHub",
+      "daily_views": 0,
+      "weekly_views": 6,
+      "monthly_views": 7,
+      "weekly_uniques": 5,
+      "monthly_uniques": 6,
+      "clones_14d": 260,
+      "stars": 0,
+      "forks": 0,
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 6
+        }
+      ]
     },
     {
       "repo": "daily-cve-security-feed",
@@ -171,7 +191,7 @@
       "monthly_views": 6,
       "weekly_uniques": 6,
       "monthly_uniques": 6,
-      "clones_14d": 212,
+      "clones_14d": 264,
       "stars": 0,
       "forks": 0,
       "referrers": [
@@ -182,24 +202,49 @@
       ]
     },
     {
-      "repo": "OneForAllHub",
-      "url": "https://github.com/OneForAllHub/OneForAllHub",
-      "description": "OneForAll | AI • VPN • TECH — Official GitHub Profile for @OneForAllHub",
-      "homepage": "https://t.me/OneForAllHub",
+      "repo": "awesome-anticensor",
+      "url": "https://github.com/OneForAllHub/awesome-anticensor",
+      "description": "A curated list of censorship circumvention tools",
+      "homepage": "",
       "daily_views": 0,
-      "weekly_views": 5,
-      "monthly_views": 6,
-      "weekly_uniques": 4,
-      "monthly_uniques": 5,
-      "clones_14d": 211,
+      "weekly_views": 4,
+      "monthly_views": 4,
+      "weekly_uniques": 1,
+      "monthly_uniques": 1,
+      "clones_14d": 2,
       "stars": 0,
       "forks": 0,
-      "referrers": [
-        {
-          "referrer": "github.com",
-          "count": 5
-        }
-      ]
+      "referrers": []
+    },
+    {
+      "repo": "Extras",
+      "url": "https://github.com/OneForAllHub/Extras",
+      "description": "📦 The Extras bucket for Scoop.",
+      "homepage": "https://scoop.sh",
+      "daily_views": 0,
+      "weekly_views": 3,
+      "monthly_views": 3,
+      "weekly_uniques": 1,
+      "monthly_uniques": 1,
+      "clones_14d": 6,
+      "stars": 0,
+      "forks": 0,
+      "referrers": []
+    },
+    {
+      "repo": "trending-ai-mcp-radar",
+      "url": "https://github.com/OneForAllHub/trending-ai-mcp-radar",
+      "description": "Daily auto-updated radar of fastest-growing AI Agents, MCP Servers, and LLM open-source repositories on GitHub with star velocity tracking.",
+      "homepage": "https://oneforallhub.github.io/trending-ai-mcp-radar/",
+      "daily_views": 0,
+      "weekly_views": 3,
+      "monthly_views": 3,
+      "weekly_uniques": 3,
+      "monthly_uniques": 3,
+      "clones_14d": 269,
+      "stars": 0,
+      "forks": 0,
+      "referrers": []
     },
     {
       "repo": "free-games-radar",
@@ -211,7 +256,7 @@
       "monthly_views": 2,
       "weekly_uniques": 2,
       "monthly_uniques": 2,
-      "clones_14d": 184,
+      "clones_14d": 220,
       "stars": 0,
       "forks": 0,
       "referrers": [
@@ -220,21 +265,6 @@
           "count": 1
         }
       ]
-    },
-    {
-      "repo": "trending-ai-mcp-radar",
-      "url": "https://github.com/OneForAllHub/trending-ai-mcp-radar",
-      "description": "Daily auto-updated radar of fastest-growing AI Agents, MCP Servers, and LLM open-source repositories on GitHub with star velocity tracking.",
-      "homepage": "https://oneforallhub.github.io/trending-ai-mcp-radar/",
-      "daily_views": 0,
-      "weekly_views": 2,
-      "monthly_views": 2,
-      "weekly_uniques": 2,
-      "monthly_uniques": 2,
-      "clones_14d": 219,
-      "stars": 0,
-      "forks": 0,
-      "referrers": []
     },
     {
       "repo": "daily-remote-tech-jobs",
@@ -261,7 +291,7 @@
       "monthly_views": 1,
       "weekly_uniques": 1,
       "monthly_uniques": 1,
-      "clones_14d": 172,
+      "clones_14d": 204,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -276,7 +306,7 @@
       "monthly_views": 1,
       "weekly_uniques": 1,
       "monthly_uniques": 1,
-      "clones_14d": 169,
+      "clones_14d": 228,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -285,21 +315,6 @@
       "repo": "awesome-anti-censorship",
       "url": "https://github.com/OneForAllHub/awesome-anti-censorship",
       "description": "curated list of open-source anti-censorship tools",
-      "homepage": "",
-      "daily_views": 0,
-      "weekly_views": 0,
-      "monthly_views": 0,
-      "weekly_uniques": 0,
-      "monthly_uniques": 0,
-      "clones_14d": 0,
-      "stars": 0,
-      "forks": 0,
-      "referrers": []
-    },
-    {
-      "repo": "awesome-anticensor",
-      "url": "https://github.com/OneForAllHub/awesome-anticensor",
-      "description": "A curated list of censorship circumvention tools",
       "homepage": "",
       "daily_views": 0,
       "weekly_views": 0,
@@ -336,7 +351,7 @@
       "monthly_views": 0,
       "weekly_uniques": 0,
       "monthly_uniques": 0,
-      "clones_14d": 0,
+      "clones_14d": 2,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -357,21 +372,6 @@
       "referrers": []
     },
     {
-      "repo": "Extras",
-      "url": "https://github.com/OneForAllHub/Extras",
-      "description": "📦 The Extras bucket for Scoop.",
-      "homepage": "https://scoop.sh",
-      "daily_views": 0,
-      "weekly_views": 0,
-      "monthly_views": 0,
-      "weekly_uniques": 0,
-      "monthly_uniques": 0,
-      "clones_14d": 0,
-      "stars": 0,
-      "forks": 0,
-      "referrers": []
-    },
-    {
       "repo": "llm-pricing-tracker",
       "url": "https://github.com/OneForAllHub/llm-pricing-tracker",
       "description": "Daily auto-updated LLM API pricing, context window, and cost-per-1M-tokens comparison across OpenAI, Anthropic, Google, DeepSeek, Meta & more.",
@@ -381,7 +381,7 @@
       "monthly_views": 0,
       "weekly_uniques": 0,
       "monthly_uniques": 0,
-      "clones_14d": 178,
+      "clones_14d": 211,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -407,8 +407,8 @@
       "repo": "HotaruNet",
       "path": "/OneForAllHub/HotaruNet",
       "title": "Overview",
-      "count": 101,
-      "uniques": 71,
+      "count": 115,
+      "uniques": 80,
       "url": "https://github.com/OneForAllHub/HotaruNet"
     },
     {
@@ -423,8 +423,8 @@
       "repo": "HotaruNet",
       "path": "/OneForAllHub/HotaruNet/releases/tag/v2.3.44",
       "title": "/releases/tag/v2.3.44",
-      "count": 35,
-      "uniques": 24,
+      "count": 43,
+      "uniques": 31,
       "url": "https://github.com/OneForAllHub/HotaruNet/releases/tag/v2.3.44"
     },
     {
@@ -436,6 +436,22 @@
       "url": "https://github.com/OneForAllHub/HotaruNet/releases/tag/v2.3.42"
     },
     {
+      "repo": "free-llm-apis-live",
+      "path": "/OneForAllHub/free-llm-apis-live",
+      "title": "Overview",
+      "count": 9,
+      "uniques": 8,
+      "url": "https://github.com/OneForAllHub/free-llm-apis-live"
+    },
+    {
+      "repo": "HotaruNet",
+      "path": "/OneForAllHub/HotaruNet/releases",
+      "title": "/releases",
+      "count": 9,
+      "uniques": 7,
+      "url": "https://github.com/OneForAllHub/HotaruNet/releases"
+    },
+    {
       "repo": "HotaruNet",
       "path": "/OneForAllHub/HotaruNet/blob/main/README.fa.md",
       "title": "/blob/main/README.fa.md",
@@ -444,27 +460,11 @@
       "url": "https://github.com/OneForAllHub/HotaruNet/blob/main/README.fa.md"
     },
     {
-      "repo": "free-llm-apis-live",
-      "path": "/OneForAllHub/free-llm-apis-live",
-      "title": "Overview",
-      "count": 7,
-      "uniques": 6,
-      "url": "https://github.com/OneForAllHub/free-llm-apis-live"
-    },
-    {
-      "repo": "HotaruNet",
-      "path": "/OneForAllHub/HotaruNet/releases",
-      "title": "/releases",
-      "count": 7,
-      "uniques": 5,
-      "url": "https://github.com/OneForAllHub/HotaruNet/releases"
-    },
-    {
       "repo": "OneForAllHub",
       "path": "/OneForAllHub/OneForAllHub",
       "title": "Overview",
-      "count": 6,
-      "uniques": 5,
+      "count": 7,
+      "uniques": 6,
       "url": "https://github.com/OneForAllHub/OneForAllHub"
     },
     {
@@ -508,6 +508,14 @@
       "url": "https://github.com/OneForAllHub/HotaruNet/blob/main/ARCHITECTURE.fa.md"
     },
     {
+      "repo": "trending-ai-mcp-radar",
+      "path": "/OneForAllHub/trending-ai-mcp-radar",
+      "title": "Overview",
+      "count": 3,
+      "uniques": 3,
+      "url": "https://github.com/OneForAllHub/trending-ai-mcp-radar"
+    },
+    {
       "repo": "free-games-radar",
       "path": "/OneForAllHub/free-games-radar",
       "title": "Overview",
@@ -516,12 +524,28 @@
       "url": "https://github.com/OneForAllHub/free-games-radar"
     },
     {
-      "repo": "trending-ai-mcp-radar",
-      "path": "/OneForAllHub/trending-ai-mcp-radar",
-      "title": "Overview",
+      "repo": "awesome-anticensor",
+      "path": "/OneForAllHub/awesome-anticensor/edit/main/README.md",
+      "title": "/edit/main/README.md",
       "count": 2,
-      "uniques": 2,
-      "url": "https://github.com/OneForAllHub/trending-ai-mcp-radar"
+      "uniques": 1,
+      "url": "https://github.com/OneForAllHub/awesome-anticensor/edit/main/README.md"
+    },
+    {
+      "repo": "awesome-anticensor",
+      "path": "/OneForAllHub/awesome-anticensor",
+      "title": "Overview",
+      "count": 1,
+      "uniques": 1,
+      "url": "https://github.com/OneForAllHub/awesome-anticensor"
+    },
+    {
+      "repo": "awesome-anticensor",
+      "path": "/OneForAllHub/awesome-anticensor/compare/main...OneForAllHub-patch-1",
+      "title": "/compare/main...OneForAllHub-patch-1",
+      "count": 1,
+      "uniques": 1,
+      "url": "https://github.com/OneForAllHub/awesome-anticensor/compare/main...OneForAllHub-patch-1"
     },
     {
       "repo": "daily-cve-security-feed",
@@ -546,6 +570,30 @@
       "count": 1,
       "uniques": 1,
       "url": "https://github.com/OneForAllHub/daily-remote-tech-jobs"
+    },
+    {
+      "repo": "Extras",
+      "path": "/OneForAllHub/Extras",
+      "title": "Overview",
+      "count": 1,
+      "uniques": 1,
+      "url": "https://github.com/OneForAllHub/Extras"
+    },
+    {
+      "repo": "Extras",
+      "path": "/OneForAllHub/Extras/compare/master...OneForAllHub-patch-1",
+      "title": "/compare/master...OneForAllHub-patch-1",
+      "count": 1,
+      "uniques": 1,
+      "url": "https://github.com/OneForAllHub/Extras/compare/master...OneForAllHub-patch-1"
+    },
+    {
+      "repo": "Extras",
+      "path": "/OneForAllHub/Extras/new/master",
+      "title": "/new/master",
+      "count": 1,
+      "uniques": 1,
+      "url": "https://github.com/OneForAllHub/Extras/new/master"
     },
     {
       "repo": "free-for-devs-live",
@@ -1229,9 +1277,9 @@
       "url": "https://oneforallhub.github.io/OneForAllHub/",
       "type": "Master Hub",
       "daily": 0,
-      "weekly": 8,
-      "monthly": 8,
-      "total": 8
+      "weekly": 10,
+      "monthly": 10,
+      "total": 10
     },
     {
       "repo": "OneForAllHub",
@@ -1243,7 +1291,7 @@
       "daily": 0,
       "weekly": 0,
       "monthly": 0,
-      "total": 3
+      "total": 10
     }
   ]
 }
