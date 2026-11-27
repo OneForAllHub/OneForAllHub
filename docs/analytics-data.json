@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-27T12:52:54Z",
+  "updated_at": "2026-11-27T17:05:27Z",
   "totals": {
     "repos_count": 17,
     "pages_count": 56,
-    "pages_daily": 4,
-    "pages_weekly": 51,
-    "pages_monthly": 51,
-    "pages_all_time": 64,
+    "pages_daily": 5,
+    "pages_weekly": 52,
+    "pages_monthly": 52,
+    "pages_all_time": 65,
     "repos_daily": 0,
     "repos_weekly": 229,
     "repos_monthly": 384,
     "repos_uniques_monthly": 210,
-    "total_stars": 5
+    "total_stars": 6
   },
   "dates_30": [
     "2026-10-29",
@@ -75,7 +75,7 @@
     9,
     3,
     2,
-    4
+    5
   ],
   "repo_series_30": [
     0,
@@ -121,7 +121,7 @@
       "weekly_uniques": 111,
       "monthly_uniques": 178,
       "clones_14d": 181,
-      "stars": 5,
+      "stars": 6,
       "forks": 0,
       "referrers": [
         {
@@ -261,7 +261,7 @@
       "monthly_views": 3,
       "weekly_uniques": 3,
       "monthly_uniques": 3,
-      "clones_14d": 269,
+      "clones_14d": 326,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -296,7 +296,7 @@
       "monthly_views": 1,
       "weekly_uniques": 1,
       "monthly_uniques": 1,
-      "clones_14d": 235,
+      "clones_14d": 279,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -341,7 +341,7 @@
       "monthly_views": 0,
       "weekly_uniques": 0,
       "monthly_uniques": 0,
-      "clones_14d": 3,
+      "clones_14d": 4,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -371,7 +371,7 @@
       "monthly_views": 0,
       "weekly_uniques": 0,
       "monthly_uniques": 0,
-      "clones_14d": 2,
+      "clones_14d": 17,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -401,7 +401,7 @@
       "monthly_views": 0,
       "weekly_uniques": 0,
       "monthly_uniques": 0,
-      "clones_14d": 211,
+      "clones_14d": 262,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -721,10 +721,10 @@
       "title": "Free liquid LLM API Models (1 Active Endpoints)",
       "url": "https://oneforallhub.github.io/free-llm-apis-live/pages/liquid-free-models.html",
       "type": "SEO Page",
-      "daily": 0,
-      "weekly": 0,
-      "monthly": 0,
-      "total": 0
+      "daily": 1,
+      "weekly": 1,
+      "monthly": 1,
+      "total": 1
     },
     {
       "repo": "free-llm-apis-live",
