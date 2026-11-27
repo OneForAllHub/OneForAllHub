@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-27T06:56:48Z",
+  "updated_at": "2026-11-27T12:52:54Z",
   "totals": {
     "repos_count": 17,
     "pages_count": 56,
-    "pages_daily": 2,
-    "pages_weekly": 49,
-    "pages_monthly": 49,
-    "pages_all_time": 62,
+    "pages_daily": 4,
+    "pages_weekly": 51,
+    "pages_monthly": 51,
+    "pages_all_time": 64,
     "repos_daily": 0,
     "repos_weekly": 229,
     "repos_monthly": 384,
     "repos_uniques_monthly": 210,
-    "total_stars": 4
+    "total_stars": 5
   },
   "dates_30": [
     "2026-10-29",
@@ -75,7 +75,7 @@
     9,
     3,
     2,
-    2
+    4
   ],
   "repo_series_30": [
     0,
@@ -121,7 +121,7 @@
       "weekly_uniques": 111,
       "monthly_uniques": 178,
       "clones_14d": 181,
-      "stars": 4,
+      "stars": 5,
       "forks": 0,
       "referrers": [
         {
@@ -673,10 +673,10 @@
       "title": "Free LLM APIs Live — Auto-Verified Free AI Models & Endpoints",
       "url": "https://oneforallhub.github.io/free-llm-apis-live/",
       "type": "Main Hub",
-      "daily": 0,
-      "weekly": 9,
-      "monthly": 9,
-      "total": 9
+      "daily": 2,
+      "weekly": 11,
+      "monthly": 11,
+      "total": 11
     },
     {
       "repo": "free-llm-apis-live",
@@ -716,18 +716,6 @@
     },
     {
       "repo": "free-llm-apis-live",
-      "page_slug": "inclusionai-free-models",
-      "page_key": "free-llm-apis-live--inclusionai-free-models",
-      "title": "Free inclusionai LLM API Models (1 Active Endpoints)",
-      "url": "https://oneforallhub.github.io/free-llm-apis-live/pages/inclusionai-free-models.html",
-      "type": "SEO Page",
-      "daily": 1,
-      "weekly": 1,
-      "monthly": 1,
-      "total": 1
-    },
-    {
-      "repo": "free-llm-apis-live",
       "page_slug": "liquid-free-models",
       "page_key": "free-llm-apis-live--liquid-free-models",
       "title": "Free liquid LLM API Models (1 Active Endpoints)",
@@ -763,16 +751,28 @@
       "total": 0
     },
     {
+      "repo": "free-llm-apis-live",
+      "page_slug": "particle-ai-free-models",
+      "page_key": "free-llm-apis-live--particle-ai-free-models",
+      "title": "Free particle-ai LLM API Models (1 Active Endpoints)",
+      "url": "https://oneforallhub.github.io/free-llm-apis-live/pages/particle-ai-free-models.html",
+      "type": "SEO Page",
+      "daily": 0,
+      "weekly": 0,
+      "monthly": 0,
+      "total": 0
+    },
+    {
       "repo": "llm-pricing-tracker",
       "page_slug": "index",
       "page_key": "llm-pricing-tracker--index",
       "title": "LLM API Pricing Tracker — Daily Cost per 1M Tokens & Context Comparison",
       "url": "https://oneforallhub.github.io/llm-pricing-tracker/",
       "type": "Main Hub",
-      "daily": 0,
-      "weekly": 5,
-      "monthly": 5,
-      "total": 5
+      "daily": 1,
+      "weekly": 6,
+      "monthly": 6,
+      "total": 6
     },
     {
       "repo": "llm-pricing-tracker",

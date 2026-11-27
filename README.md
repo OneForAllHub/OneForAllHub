@@ -10,7 +10,7 @@ Auto-updated open-source datasets, live developer directories, security intellig
 
 | Project | Description | Stars |
 | --- | --- | ---: |
-| [HotaruNet](https://github.com/OneForAllHub/HotaruNet) | Autonomous zero-config Android & Windows VPN (VLESS REALITY, Hysteria 2, Cloudflare WARP, XHTTP, Xray-core, Wintun TUN & No Proxy SOCKS5/HTTP) with 4-stage robot UI, real throughput probing & auto-failover. فیلترشکن هوشمند و رایگان اندروید و ویندوز | ★ 4 |
+| [HotaruNet](https://github.com/OneForAllHub/HotaruNet) | Autonomous zero-config Android & Windows VPN (VLESS REALITY, Hysteria 2, Cloudflare WARP, XHTTP, Xray-core, Wintun TUN & No Proxy SOCKS5/HTTP) with 4-stage robot UI, real throughput probing & auto-failover. فیلترشکن هوشمند و رایگان اندروید و ویندوز | ★ 5 |
 | [winget-pkgs](https://github.com/OneForAllHub/winget-pkgs) | The Microsoft community Windows Package Manager manifest repository | ★ 0 |
 | [awesome-anticensor](https://github.com/OneForAllHub/awesome-anticensor) | A curated list of censorship circumvention tools | ★ 0 |
 | [Extras](https://github.com/OneForAllHub/Extras) | 📦 The Extras bucket for Scoop. | ★ 0 |
