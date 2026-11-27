@@ -1,20 +1,19 @@
 {
-  "updated_at": "2026-11-26T18:42:22Z",
+  "updated_at": "2026-11-27T00:49:07Z",
   "totals": {
     "repos_count": 17,
     "pages_count": 56,
-    "pages_daily": 2,
+    "pages_daily": 0,
     "pages_weekly": 47,
     "pages_monthly": 47,
     "pages_all_time": 60,
     "repos_daily": 0,
-    "repos_weekly": 271,
+    "repos_weekly": 199,
     "repos_monthly": 354,
     "repos_uniques_monthly": 191,
     "total_stars": 4
   },
   "dates_30": [
-    "2026-10-28",
     "2026-10-29",
     "2026-10-30",
     "2026-10-31",
@@ -43,10 +42,10 @@
     "2026-11-23",
     "2026-11-24",
     "2026-11-25",
-    "2026-11-26"
+    "2026-11-26",
+    "2026-11-27"
   ],
   "page_series_30": [
-    0,
     0,
     0,
     0,
@@ -75,10 +74,10 @@
     33,
     9,
     3,
-    2
+    2,
+    0
   ],
   "repo_series_30": [
-    0,
     0,
     0,
     0,
@@ -107,6 +106,7 @@
     53,
     67,
     47,
+    0,
     0
   ],
   "repositories": [
@@ -116,9 +116,9 @@
       "description": "Autonomous zero-config Android & Windows VPN (VLESS REALITY, Hysteria 2, Cloudflare WARP, XHTTP, Xray-core, Wintun TUN & No Proxy SOCKS5/HTTP) with 4-stage robot UI, real throughput probing & auto-failover. فیلترشکن هوشمند و رایگان اندروید و ویندوز",
       "homepage": "https://oneforallhub.github.io/HotaruNet/",
       "daily_views": 0,
-      "weekly_views": 226,
+      "weekly_views": 156,
       "monthly_views": 308,
-      "weekly_uniques": 125,
+      "weekly_uniques": 92,
       "monthly_uniques": 159,
       "clones_14d": 166,
       "stars": 4,
@@ -187,9 +187,9 @@
       "description": "OneForAll | AI • VPN • TECH — Official GitHub Profile for @OneForAllHub",
       "homepage": "https://t.me/OneForAllHub",
       "daily_views": 0,
-      "weekly_views": 6,
+      "weekly_views": 4,
       "monthly_views": 7,
-      "weekly_uniques": 5,
+      "weekly_uniques": 3,
       "monthly_uniques": 6,
       "clones_14d": 260,
       "stars": 0,
@@ -745,7 +745,7 @@
       "title": "Free nvidia LLM API Models (4 Active Endpoints)",
       "url": "https://oneforallhub.github.io/free-llm-apis-live/pages/nvidia-free-models.html",
       "type": "SEO Page",
-      "daily": 1,
+      "daily": 0,
       "weekly": 1,
       "monthly": 1,
       "total": 1
@@ -1153,7 +1153,7 @@
       "title": "Daily CVE & CISA KEV Security Feed — Zero-Day & Advisory Tracker",
       "url": "https://oneforallhub.github.io/daily-cve-security-feed/",
       "type": "Main Hub",
-      "daily": 1,
+      "daily": 0,
       "weekly": 7,
       "monthly": 7,
       "total": 7
