@@ -1,20 +1,19 @@
 {
-  "updated_at": "2026-11-27T18:41:06Z",
+  "updated_at": "2026-11-28T00:46:24Z",
   "totals": {
     "repos_count": 17,
     "pages_count": 56,
-    "pages_daily": 5,
+    "pages_daily": 0,
     "pages_weekly": 52,
     "pages_monthly": 52,
     "pages_all_time": 65,
     "repos_daily": 0,
-    "repos_weekly": 229,
+    "repos_weekly": 215,
     "repos_monthly": 384,
     "repos_uniques_monthly": 210,
     "total_stars": 6
   },
   "dates_30": [
-    "2026-10-29",
     "2026-10-30",
     "2026-10-31",
     "2026-11-01",
@@ -43,10 +42,10 @@
     "2026-11-24",
     "2026-11-25",
     "2026-11-26",
-    "2026-11-27"
+    "2026-11-27",
+    "2026-11-28"
   ],
   "page_series_30": [
-    0,
     0,
     0,
     0,
@@ -75,10 +74,10 @@
     9,
     3,
     2,
-    5
+    5,
+    0
   ],
   "repo_series_30": [
-    0,
     0,
     0,
     0,
@@ -107,6 +106,7 @@
     67,
     47,
     30,
+    0,
     0
   ],
   "repositories": [
@@ -116,9 +116,9 @@
       "description": "Autonomous zero-config Android & Windows VPN (VLESS REALITY, Hysteria 2, Cloudflare WARP, XHTTP, Xray-core, Wintun TUN & No Proxy SOCKS5/HTTP) with 4-stage robot UI, real throughput probing & auto-failover. فیلترشکن هوشمند و رایگان اندروید و ویندوز",
       "homepage": "https://oneforallhub.github.io/HotaruNet/",
       "daily_views": 0,
-      "weekly_views": 186,
+      "weekly_views": 172,
       "monthly_views": 338,
-      "weekly_uniques": 111,
+      "weekly_uniques": 101,
       "monthly_uniques": 178,
       "clones_14d": 181,
       "stars": 6,
@@ -673,7 +673,7 @@
       "title": "Free LLM APIs Live — Auto-Verified Free AI Models & Endpoints",
       "url": "https://oneforallhub.github.io/free-llm-apis-live/",
       "type": "Main Hub",
-      "daily": 2,
+      "daily": 0,
       "weekly": 11,
       "monthly": 11,
       "total": 11
@@ -685,7 +685,7 @@
       "title": "Top 10 Free LLM API Providers (OpenAI-Compatible) — Live Health Status",
       "url": "https://oneforallhub.github.io/free-llm-apis-live/pages/free-llm-providers.html",
       "type": "SEO Page",
-      "daily": 1,
+      "daily": 0,
       "weekly": 3,
       "monthly": 3,
       "total": 3
@@ -721,7 +721,7 @@
       "title": "Free liquid LLM API Models (1 Active Endpoints)",
       "url": "https://oneforallhub.github.io/free-llm-apis-live/pages/liquid-free-models.html",
       "type": "SEO Page",
-      "daily": 1,
+      "daily": 0,
       "weekly": 1,
       "monthly": 1,
       "total": 1
@@ -769,7 +769,7 @@
       "title": "LLM API Pricing Tracker — Daily Cost per 1M Tokens & Context Comparison",
       "url": "https://oneforallhub.github.io/llm-pricing-tracker/",
       "type": "Main Hub",
-      "daily": 1,
+      "daily": 0,
       "weekly": 6,
       "monthly": 6,
       "total": 6
