@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T00:46:24Z",
+  "updated_at": "2026-11-28T06:51:40Z",
   "totals": {
     "repos_count": 17,
     "pages_count": 56,
@@ -8,9 +8,9 @@
     "pages_monthly": 52,
     "pages_all_time": 65,
     "repos_daily": 0,
-    "repos_weekly": 215,
-    "repos_monthly": 384,
-    "repos_uniques_monthly": 210,
+    "repos_weekly": 243,
+    "repos_monthly": 412,
+    "repos_uniques_monthly": 231,
     "total_stars": 6
   },
   "dates_30": [
@@ -106,27 +106,27 @@
     67,
     47,
     30,
-    0,
+    28,
     0
   ],
   "repositories": [
     {
       "repo": "HotaruNet",
       "url": "https://github.com/OneForAllHub/HotaruNet",
-      "description": "Autonomous zero-config Android & Windows VPN (VLESS REALITY, Hysteria 2, Cloudflare WARP, XHTTP, Xray-core, Wintun TUN & No Proxy SOCKS5/HTTP) with 4-stage robot UI, real throughput probing & auto-failover. فیلترشکن هوشمند و رایگان اندروید و ویندوز",
+      "description": "HotaruNet v2.3.45 — Autonomous zero-config Android & Windows VPN (VLESS REALITY, Hysteria 2, WARP, XHTTP) with Per-App Direct Bypass, <2s warm reconnect, live route switching, Wintun TUN, System Tray & No Proxy SOCKS5/HTTP. فیلترشکن هوشمند و رایگان اندروید و ویندوز",
       "homepage": "https://oneforallhub.github.io/HotaruNet/",
       "daily_views": 0,
-      "weekly_views": 172,
-      "monthly_views": 338,
-      "weekly_uniques": 101,
-      "monthly_uniques": 178,
-      "clones_14d": 181,
+      "weekly_views": 196,
+      "monthly_views": 362,
+      "weekly_uniques": 118,
+      "monthly_uniques": 195,
+      "clones_14d": 186,
       "stars": 6,
       "forks": 0,
       "referrers": [
         {
           "referrer": "github.com",
-          "count": 35
+          "count": 37
         },
         {
           "referrer": "lowendtalk.com",
@@ -134,7 +134,7 @@
         },
         {
           "referrer": "elevenforum.com",
-          "count": 6
+          "count": 7
         },
         {
           "referrer": "xdaforums.com",
@@ -182,6 +182,26 @@
       ]
     },
     {
+      "repo": "daily-cve-security-feed",
+      "url": "https://github.com/OneForAllHub/daily-cve-security-feed",
+      "description": "Automated daily cybersecurity feed tracking CISA Known Exploited Vulnerabilities (KEV) and critical GitHub Security Advisories with JSON & RSS feeds.",
+      "homepage": "https://oneforallhub.github.io/daily-cve-security-feed/",
+      "daily_views": 0,
+      "weekly_views": 7,
+      "monthly_views": 7,
+      "weekly_uniques": 7,
+      "monthly_uniques": 7,
+      "clones_14d": 418,
+      "stars": 0,
+      "forks": 0,
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "repo": "OneForAllHub",
       "url": "https://github.com/OneForAllHub/OneForAllHub",
       "description": "OneForAll | AI • VPN • TECH — Official GitHub Profile for @OneForAllHub",
@@ -202,16 +222,16 @@
       ]
     },
     {
-      "repo": "daily-cve-security-feed",
-      "url": "https://github.com/OneForAllHub/daily-cve-security-feed",
-      "description": "Automated daily cybersecurity feed tracking CISA Known Exploited Vulnerabilities (KEV) and critical GitHub Security Advisories with JSON & RSS feeds.",
-      "homepage": "https://oneforallhub.github.io/daily-cve-security-feed/",
+      "repo": "awesome-anticensor",
+      "url": "https://github.com/OneForAllHub/awesome-anticensor",
+      "description": "A curated list of censorship circumvention tools",
+      "homepage": "",
       "daily_views": 0,
-      "weekly_views": 6,
-      "monthly_views": 6,
-      "weekly_uniques": 6,
-      "monthly_uniques": 6,
-      "clones_14d": 330,
+      "weekly_views": 5,
+      "monthly_views": 5,
+      "weekly_uniques": 2,
+      "monthly_uniques": 2,
+      "clones_14d": 8,
       "stars": 0,
       "forks": 0,
       "referrers": [
@@ -220,21 +240,6 @@
           "count": 1
         }
       ]
-    },
-    {
-      "repo": "awesome-anticensor",
-      "url": "https://github.com/OneForAllHub/awesome-anticensor",
-      "description": "A curated list of censorship circumvention tools",
-      "homepage": "",
-      "daily_views": 0,
-      "weekly_views": 4,
-      "monthly_views": 4,
-      "weekly_uniques": 1,
-      "monthly_uniques": 1,
-      "clones_14d": 7,
-      "stars": 0,
-      "forks": 0,
-      "referrers": []
     },
     {
       "repo": "Extras",
@@ -287,6 +292,46 @@
       ]
     },
     {
+      "repo": "awesome-anti-censorship",
+      "url": "https://github.com/OneForAllHub/awesome-anti-censorship",
+      "description": "curated list of open-source anti-censorship tools",
+      "homepage": "",
+      "daily_views": 0,
+      "weekly_views": 1,
+      "monthly_views": 1,
+      "weekly_uniques": 1,
+      "monthly_uniques": 1,
+      "clones_14d": 5,
+      "stars": 0,
+      "forks": 0,
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "repo": "awesome-freedom",
+      "url": "https://github.com/OneForAllHub/awesome-freedom",
+      "description": "In this repository we have collected all awesome tools for iranian people",
+      "homepage": "",
+      "daily_views": 0,
+      "weekly_views": 1,
+      "monthly_views": 1,
+      "weekly_uniques": 1,
+      "monthly_uniques": 1,
+      "clones_14d": 4,
+      "stars": 0,
+      "forks": 0,
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "repo": "daily-remote-tech-jobs",
       "url": "https://github.com/OneForAllHub/daily-remote-tech-jobs",
       "description": "Daily auto-updated board of verified remote software engineering, AI, DevOps, and developer jobs with clean JSON/CSV feeds.",
@@ -311,7 +356,7 @@
       "monthly_views": 1,
       "weekly_uniques": 1,
       "monthly_uniques": 1,
-      "clones_14d": 267,
+      "clones_14d": 322,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -327,36 +372,6 @@
       "weekly_uniques": 1,
       "monthly_uniques": 1,
       "clones_14d": 267,
-      "stars": 0,
-      "forks": 0,
-      "referrers": []
-    },
-    {
-      "repo": "awesome-anti-censorship",
-      "url": "https://github.com/OneForAllHub/awesome-anti-censorship",
-      "description": "curated list of open-source anti-censorship tools",
-      "homepage": "",
-      "daily_views": 0,
-      "weekly_views": 0,
-      "monthly_views": 0,
-      "weekly_uniques": 0,
-      "monthly_uniques": 0,
-      "clones_14d": 4,
-      "stars": 0,
-      "forks": 0,
-      "referrers": []
-    },
-    {
-      "repo": "awesome-freedom",
-      "url": "https://github.com/OneForAllHub/awesome-freedom",
-      "description": "In this repository we have collected all awesome tools for iranian people",
-      "homepage": "",
-      "daily_views": 0,
-      "weekly_views": 0,
-      "monthly_views": 0,
-      "weekly_uniques": 0,
-      "monthly_uniques": 0,
-      "clones_14d": 3,
       "stars": 0,
       "forks": 0,
       "referrers": []
@@ -412,23 +427,23 @@
       "repo": "HotaruNet",
       "path": "/OneForAllHub/HotaruNet",
       "title": "Overview",
-      "count": 121,
-      "uniques": 85,
+      "count": 131,
+      "uniques": 93,
       "url": "https://github.com/OneForAllHub/HotaruNet"
     },
     {
       "repo": "HotaruNet",
       "path": "/OneForAllHub/HotaruNet/releases/tag/v2.3.44",
       "title": "/releases/tag/v2.3.44",
-      "count": 56,
-      "uniques": 43,
+      "count": 68,
+      "uniques": 53,
       "url": "https://github.com/OneForAllHub/HotaruNet/releases/tag/v2.3.44"
     },
     {
       "repo": "HotaruNet",
       "path": "/OneForAllHub/HotaruNet/releases/tag/v2.3.43",
       "title": "/releases/tag/v2.3.43",
-      "count": 52,
+      "count": 53,
       "uniques": 39,
       "url": "https://github.com/OneForAllHub/HotaruNet/releases/tag/v2.3.43"
     },
@@ -444,8 +459,8 @@
       "repo": "HotaruNet",
       "path": "/OneForAllHub/HotaruNet/releases",
       "title": "/releases",
-      "count": 14,
-      "uniques": 11,
+      "count": 15,
+      "uniques": 12,
       "url": "https://github.com/OneForAllHub/HotaruNet/releases"
     },
     {
@@ -529,6 +544,14 @@
       "url": "https://github.com/OneForAllHub/winget-pkgs/tree/OneForAllHub.HotaruNet-2.3.44/manifests/o/OneForAllHub/HotaruNet/2.3.44"
     },
     {
+      "repo": "awesome-anticensor",
+      "path": "/OneForAllHub/awesome-anticensor",
+      "title": "Overview",
+      "count": 2,
+      "uniques": 2,
+      "url": "https://github.com/OneForAllHub/awesome-anticensor"
+    },
+    {
       "repo": "free-games-radar",
       "path": "/OneForAllHub/free-games-radar",
       "title": "Overview",
@@ -553,12 +576,12 @@
       "url": "https://github.com/OneForAllHub/winget-pkgs"
     },
     {
-      "repo": "awesome-anticensor",
-      "path": "/OneForAllHub/awesome-anticensor",
+      "repo": "awesome-anti-censorship",
+      "path": "/OneForAllHub/awesome-anti-censorship",
       "title": "Overview",
       "count": 1,
       "uniques": 1,
-      "url": "https://github.com/OneForAllHub/awesome-anticensor"
+      "url": "https://github.com/OneForAllHub/awesome-anti-censorship"
     },
     {
       "repo": "awesome-anticensor",
@@ -569,12 +592,28 @@
       "url": "https://github.com/OneForAllHub/awesome-anticensor/compare/main...OneForAllHub-patch-1"
     },
     {
+      "repo": "awesome-freedom",
+      "path": "/OneForAllHub/awesome-freedom",
+      "title": "Overview",
+      "count": 1,
+      "uniques": 1,
+      "url": "https://github.com/OneForAllHub/awesome-freedom"
+    },
+    {
       "repo": "daily-cve-security-feed",
       "path": "/OneForAllHub/daily-cve-security-feed/commit/55fd15712ad7eb2007eec138347eef3525b55e34",
       "title": "/commit/55fd15712ad7eb2007eec138347eef3525b55e34",
       "count": 1,
       "uniques": 1,
       "url": "https://github.com/OneForAllHub/daily-cve-security-feed/commit/55fd15712ad7eb2007eec138347eef3525b55e34"
+    },
+    {
+      "repo": "daily-cve-security-feed",
+      "path": "/OneForAllHub/daily-cve-security-feed/commit/8375d7b01c6392cbf3a2777aa93352abed7f5417",
+      "title": "/commit/8375d7b01c6392cbf3a2777aa93352abed7f5417",
+      "count": 1,
+      "uniques": 1,
+      "url": "https://github.com/OneForAllHub/daily-cve-security-feed/commit/8375d7b01c6392cbf3a2777aa93352abed7f5417"
     },
     {
       "repo": "daily-cve-security-feed",

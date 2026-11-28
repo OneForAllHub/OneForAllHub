@@ -10,7 +10,7 @@ Auto-updated open-source datasets, live developer directories, security intellig
 
 | Project | Description | Stars |
 | --- | --- | ---: |
-| [HotaruNet](https://github.com/OneForAllHub/HotaruNet) | Autonomous zero-config Android & Windows VPN (VLESS REALITY, Hysteria 2, Cloudflare WARP, XHTTP, Xray-core, Wintun TUN & No Proxy SOCKS5/HTTP) with 4-stage robot UI, real throughput probing & auto-failover. فیلترشکن هوشمند و رایگان اندروید و ویندوز | ★ 6 |
+| [HotaruNet](https://github.com/OneForAllHub/HotaruNet) | HotaruNet v2.3.45 — Autonomous zero-config Android & Windows VPN (VLESS REALITY, Hysteria 2, WARP, XHTTP) with Per-App Direct Bypass, <2s warm reconnect, live route switching, Wintun TUN, System Tray & No Proxy SOCKS5/HTTP. فیلترشکن هوشمند و رایگان اندروید و ویندوز | ★ 6 |
 
 ## 🔥 Live Auto-Updated Trackers (56 Indexed SEO Pages)
 
